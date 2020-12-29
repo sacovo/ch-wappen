@@ -1,46 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   width="500"
-   height="550"
-   viewBox="21 15 500 550"
-   version="1.1"
-   id="svg46">
-  <metadata
-     id="metadata2">
-    <rdf:RDF>
-      <rdf:Description
-         dc:title="Wappen Zuoz (CH-GR)"
-         dc:date="2006-10-31"
-         dc:format="image/svg+xml"
-         dc:language="de">
-        <dc:creator
-           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
-      </rdf:Description>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>
-Wappen Zuoz (CH-GR)
-</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <title
-     id="title4">
-Wappen Zuoz (CH-GR)
-</title>
-  <defs
-     id="defs11">
-    <style
-       type="text/css"
-       id="style9"><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="550" version="1.1" viewBox="21 15 500 550" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<rdf:Description dc:date="2006-10-31" dc:format="image/svg+xml" dc:language="de" dc:title="Wappen Zuoz (CH-GR)">
+<dc:creator rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina"/>
+</rdf:Description>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title>Wappen Zuoz (CH-GR)</dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen Zuoz (CH-GR)</title>
+<defs>
+<style type="text/css"><![CDATA[
   .Rand1 { stroke: #202020; stroke-width:15; }
   .Rand2 { stroke: #202020; stroke-width:30; }
   .Rand6 { stroke: #202020; stroke-width:90; }
@@ -49,146 +23,37 @@ Wappen Zuoz (CH-GR)
   .Gold { fill: #ffef00; }
   .Silber { fill: #ffffff; }
   ]]></style>
-  </defs>
-  <g
-     id="g969">
-    <g
-       transform="matrix(1.1137783,0,0,1.116598,-5.7308125,15.631058)"
-       id="g4667">
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:6.23503304;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-         d="m 24.00012,267.54127 a 224.46119,224.46119 0 0 0 448.92239,0 V -0.56516127 H 24.00012 Z"
-         class="Rand6"
-         id="clip-boundary" />
-      <path
-         id="path4663"
-         class="Rand6"
-         d="m 34.509723,266.51955 a 213.95159,213.95159 0 0 0 427.903187,0 V 10.966254 H 34.509723 Z"
-         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:5.94309998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
-    </g>
-    <g
-       id="g937">
-      <g
-         id="g909">
-        <path
-           style="fill:#ffef00;fill-rule:evenodd;stroke:#202020;stroke-width:1.03893709;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-           d="m 181.37402,208.52148 -6.22574,-18.72452 c -2.07525,-12.48302 -4.1505,-24.96604 -7.26337,-36.4088 -3.11288,-11.44277 -7.26338,-21.84528 -11.41388,-29.12704 -4.15049,-7.28176 -8.30099,-11.44276 -12.45149,-13.52326 -4.1505,-2.08051 -8.301,-2.08051 -12.45149,-2.08051 6.22574,-6.24151 12.45149,-12.483014 17.63962,-14.563517 5.18812,-2.080503 9.33861,0 12.45148,5.201257 3.11288,5.20126 5.18813,13.52327 7.26338,21.84528 3.3204,-6.19504 6.64079,-12.39078 10.09954,-16.50532 3.45875,-4.11454 7.05585,-6.149275 12.22114,-5.525124 5.16461,0.624151 11.89809,3.907184 18.63089,7.189524 -0.50705,7.53628 -1.01479,15.07186 -3.06651,19.85701 -2.05242,4.78516 -5.64953,6.81989 -11.18353,7.60562 -5.53399,0.78574 -13.00488,0.32387 -20.47578,-0.1387 4.15049,8.32201 8.30099,16.64402 13.48912,21.84529 5.18812,5.20125 11.60691,6.16129 20.75249,8.322 9.78408,2.31156 10.80432,-0.63079 14.12933,-11.09536 8.40972,8.90497 12.15897,8.78049 16.99939,6.93435 9.98485,-3.80821 15.56438,-15.60376 18.67724,-24.96602 3.11288,-9.36226 3.11288,-17.68428 3.11288,-26.00629 -6.22574,4.16101 -12.45149,8.32201 -17.63961,10.40252 -5.18813,2.0805 -9.33862,2.0805 -13.48912,-1.04025 -4.1505,-3.12076 -8.301,-9.36227 -12.4515,-15.60377 4.1505,-6.241513 8.301,-12.483022 12.4515,-15.603776 4.1505,-3.120754 8.30099,-3.120754 13.48912,-1.040251 5.18812,2.080502 11.41387,6.241508 17.63961,10.402514 -4.1505,-6.241509 -8.30099,-12.483018 -10.37624,-17.684275 -2.07525,-5.201257 -2.07525,-9.362263 1.03762,-13.523268 3.11288,-4.161005 9.33862,-8.32201 15.56437,-12.483016 6.22575,4.161006 12.45149,8.322011 15.56437,12.483016 3.11287,4.161005 3.11287,8.322011 1.03762,13.523268 -2.07525,5.201257 -6.22575,11.442766 -10.37624,17.684275 6.22574,-4.161007 12.45149,-8.322012 17.63962,-10.402515 5.18812,-2.080503 9.33861,-2.080503 13.48911,1.040251 4.1505,3.120755 8.301,9.362264 12.45149,15.603767 -4.15049,6.24151 -8.30099,12.48302 -12.45149,15.60378 -4.1505,3.12075 -8.30099,3.12075 -13.48911,1.04025 -5.18813,-2.08051 -11.41388,-6.24151 -17.63962,-10.40252 0,8.32201 0,16.64403 3.11286,26.00629 3.11288,9.36226 9.20548,20.01267 18.67726,24.96602 4.8695,2.54656 7.6454,2.68699 16.99939,-6.93435 5.84363,13.83661 8.88432,10.78671 14.12933,11.09536 9.37994,0.55198 15.56437,-3.12074 20.7525,-8.322 5.18813,-5.20127 9.33862,-13.52328 13.48911,-21.84529 -7.4709,0.46257 -14.94179,0.92444 -20.47578,0.1387 -5.534,-0.78573 -9.13111,-2.82046 -11.18353,-7.60562 -2.05172,-4.78515 -2.55946,-12.32074 -3.06652,-19.85701 6.73281,-3.28234 13.46629,-6.565374 18.63089,-7.189525 5.16529,-0.624151 8.7624,1.410585 12.22115,5.525125 3.45875,4.11454 6.77914,10.31028 10.09954,16.50532 2.07525,-8.32201 4.1505,-16.64402 7.26338,-21.84528 3.11287,-5.201257 7.26336,-7.28176 12.45148,-5.201257 5.18813,2.080503 11.41387,8.322007 17.63962,14.563517 -4.1505,0 -8.30099,0 -12.45149,2.08051 -4.1505,2.0805 -8.301,6.2415 -12.4515,13.52326 -4.15049,7.28176 -8.30099,17.68427 -11.41387,29.12704 -3.11287,11.44276 -5.18812,23.92578 -7.26337,36.4088 l -6.22574,18.72452"
-           class="Gold Rand1"
-           id="krone-1" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#202020;stroke-width:2.07787418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-           d="m 181.37402,208.52148 -6.22574,-18.72452 c 18.67724,-4.16101 37.35448,-8.32201 59.14459,-10.40252 21.79012,-2.0805 46.6931,-2.0805 68.48322,0 21.79011,2.08051 40.46735,6.24151 59.14459,10.40252 l -6.22574,18.72452"
-           class="Rand2"
-           id="krone-linie-1" />
-        <path
-           style="fill:#ffef00;fill-rule:evenodd;stroke:#202020;stroke-width:2.07787418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-           d="m 355.69494,208.52148 a 87.16046,18.724526 0 0 0 -174.32092,0 87.16046,18.724526 0 0 0 174.32092,0 z"
-           class="Gold Rand2"
-           id="krone-ellipse-1" />
-        <path
-           style="fill:#000000;fill-rule:evenodd;stroke:#202020;stroke-width:1.03893709;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-           d="m 315.16507,193.53405 c -29.54193,-3.20285 -61.94364,-3.987 -93.3862,0 30.57046,8.35853 62.81574,8.35853 93.3862,0 z"
-           class="Schwarz Rand1"
-           id="krone-schwarz-1" />
-      </g>
-      <g
-         transform="matrix(1.0376193,0,0,1.0402462,17.389488,28.695662)"
-         id="g4772">
-        <g
-           id="g39"
-           transform="matrix(0.0333335,-0.05773532,0.05773532,0.0333335,-110.05694,384.71568)"
-           style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10">
-          <path
-             style="fill:#ffef00;stroke:#202020;stroke-width:30"
-             d="m 3960,1305 a 180,180 0 0 0 -360,0 180,180 0 0 0 360,0 z"
-             class="Gold Rand2"
-             id="bischof2/kugel-1" />
-          <path
-             style="fill:#ffef00;stroke:#202020;stroke-width:30"
-             d="m 3780,6435 a 180,270 0 0 0 -360,0 180,270 0 0 0 360,0 z"
-             class="Gold Rand2"
-             id="bischof2/kugel-2" />
-          <path
-             style="fill:#ffef00;stroke:#202020;stroke-width:30"
-             d="m 3780,1125 c -60,0 -120,0 -180,30 -60,30 -120,90 -150,180 -30,90 -30,210 30,315 60,105 180,195 315,225 135,30 285,0 405,-75 120,-75 210,-195 240,-352 30,-158 0,-353 -90,-503 -90,-150 -240,-255 -420,-307 -180,-53 -390,-53 -570,22 -180,75 -330,225 -405,405 -75,180 -75,390 -30,555 45,165 135,285 225,360 90,75 180,105 225,165 45,60 45,150 45,240 v 4050 h 360 V 2385 c 15,-120 30,-240 -75,-345 -105,-105 -330,-195 -427,-352 -98,-158 -68,-383 0,-533 67,-150 172,-225 277,-263 105,-37 210,-37 315,-7 105,30 210,90 270,187 60,98 75,233 52,338 -22,105 -82,180 -187,218 -105,37 -255,37 -330,-8 -75,-45 -75,-135 -75,-225"
-             class="Gold Rand2"
-             id="bischof2/stab-1" />
-          <path
-             style="fill:#ffef00;stroke:#202020;stroke-width:30"
-             d="m 3420,6435 h 360 a 90,90 0 0 0 0,-180 h -360 a 90,90 0 0 0 0,180 z"
-             class="Gold Rand2"
-             id="bischof2/bund-1" />
-          <path
-             style="fill:#ffef00;stroke:#202020;stroke-width:30"
-             d="m 3780,2385 h -360 a 140.63,140.63 0 1 0 0,270 h 360 a 140.63,140.63 0 1 0 0,-270 z"
-             class="Gold Rand2"
-             id="bischof2/bund-2" />
-          <path
-             style="stroke:#202020;stroke-width:30"
-             d="m 3420,2835 h 360"
-             class="Rand2"
-             id="bischof2/linie-1" />
-        </g>
-        <g
-           id="g4750">
-          <g
-             id="g4736">
-            <path
-               id="schwert/schwert-1"
-               class="Silber Rand2"
-               d="m 329.45756,245.61378 -230.828035,140.19685 -9.588506,19.39241 21.588571,1.39231 236.82806,-129.8045 z"
-               style="fill:#ffffff;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/linie-1"
-               class="Rand2"
-               d="M 338.4576,261.20232 104.62956,396.20299"
-               style="fill:none;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-          </g>
-          <g
-             id="g4732">
-            <path
-               id="schwert/kugel-1"
-               class="Gold Rand2"
-               d="m 443.18503,214.59439 a 12.000063,12.000063 45 0 0 -12.00006,-20.78472 12.000063,12.000063 45 0 0 12.00006,20.78472 z"
-               style="fill:#ffef00;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/griff1-1"
-               class="Gold Rand2"
-               d="m 339.84991,239.61375 -15.58853,9.00004 -6.58849,24.58859 24.58858,6.58849 15.58853,-9.00005 74.94267,-50.1964 -12.00006,-20.78472 z"
-               style="fill:#ffef00;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/griff2-1"
-               class="Gold Rand2"
-               d="m 326.45754,240.4176 24.00012,41.56943 9.8039,28.98091 20.78471,-12.00006 -20.19625,-22.98088 -24.00012,-41.56943 -9.8039,-28.98091 -20.78471,12.00006 z"
-               style="fill:#ffef00;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/griff-linie-1"
-               class="Rand2"
-               d="m 373.827,226.46343 12.40006,21.47754"
-               style="fill:none;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/griff-linie-2"
-               class="Rand2"
-               d="m 406.20408,210.54181 10.00005,17.32059"
-               style="fill:none;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/griff-linie-3"
-               class="Rand2"
-               d="m 390.01554,218.50262 11.20006,19.39906"
-               style="fill:none;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               id="schwert/griff-linie-4"
-               class="Rand2"
-               d="m 357.63846,234.42424 13.60007,23.55601"
-               style="fill:none;fill-rule:evenodd;stroke:#202020;stroke-width:2.00001001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10" />
-            <path
-               style="fill:#000000;fill-rule:evenodd;stroke:#202020;stroke-width:0.91735142;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10"
-               d="m 440.07351,208.808 a 5.5041123,5.5041123 0 0 0 -5.50408,-9.53342 5.5041123,5.5041123 0 0 0 5.50408,9.53342 z"
-               class="Gold Rand2"
-               id="path4722" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+</defs>
+<g transform="matrix(1.1138 0 0 1.1166 -5.7308 15.631)">
+<path class="Rand6" d="m24 267.54a224.46 224.46 0 0 0 448.92 0v-268.11h-448.92z" fill-rule="evenodd"/>
+<path class="Rand6" d="m34.51 266.52a213.95 213.95 0 0 0 427.9 0v-255.55h-427.9z" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5.9431"/>
+</g>
+<g stroke="#202020" stroke-miterlimit="10">
+<path class="Gold Rand1" d="m181.37 208.52-6.2257-18.725c-2.0752-12.483-4.1505-24.966-7.2634-36.409-3.1129-11.443-7.2634-21.845-11.414-29.127-4.1505-7.2818-8.301-11.443-12.451-13.523-4.1505-2.0805-8.301-2.0805-12.451-2.0805 6.2257-6.2415 12.451-12.483 17.64-14.564 5.1881-2.0805 9.3386 0 12.451 5.2013 3.1129 5.2013 5.1881 13.523 7.2634 21.845 3.3204-6.195 6.6408-12.391 10.1-16.505s7.0558-6.1493 12.221-5.5251c5.1646 0.62415 11.898 3.9072 18.631 7.1895-0.50705 7.5363-1.0148 15.072-3.0665 19.857-2.0524 4.7852-5.6495 6.8199-11.184 7.6056-5.534 0.78574-13.005 0.32387-20.476-0.1387 4.1505 8.322 8.301 16.644 13.489 21.845 5.1881 5.2012 11.607 6.1613 20.752 8.322 9.7841 2.3116 10.804-0.63079 14.129-11.095 8.4097 8.905 12.159 8.7805 16.999 6.9344 9.9848-3.8082 15.564-15.604 18.677-24.966 3.1129-9.3623 3.1129-17.684 3.1129-26.006-6.2257 4.161-12.451 8.322-17.64 10.403-5.1881 2.0805-9.3386 2.0805-13.489-1.0402-4.1505-3.1208-8.301-9.3623-12.452-15.604 4.1505-6.2415 8.301-12.483 12.452-15.604s8.301-3.1208 13.489-1.0403c5.1881 2.0805 11.414 6.2415 17.64 10.403-4.1505-6.2415-8.301-12.483-10.376-17.684s-2.0752-9.3623 1.0376-13.523c3.1129-4.161 9.3386-8.322 15.564-12.483 6.2258 4.161 12.451 8.322 15.564 12.483 3.1129 4.161 3.1129 8.322 1.0376 13.523s-6.2258 11.443-10.376 17.684c6.2257-4.161 12.451-8.322 17.64-10.403 5.1881-2.0805 9.3386-2.0805 13.489 1.0403 4.1505 3.1208 8.301 9.3623 12.451 15.604-4.1505 6.2415-8.301 12.483-12.451 15.604-4.1505 3.1208-8.301 3.1208-13.489 1.0402-5.1881-2.0805-11.414-6.2415-17.64-10.403 0 8.322 0 16.644 3.1129 26.006 3.1129 9.3623 9.2055 20.013 18.677 24.966 4.8695 2.5466 7.6454 2.687 16.999-6.9344 5.8436 13.837 8.8843 10.787 14.129 11.095 9.3799 0.55198 15.564-3.1207 20.752-8.322 5.1881-5.2013 9.3386-13.523 13.489-21.845-7.4709 0.46257-14.942 0.92444-20.476 0.1387-5.534-0.78573-9.1311-2.8205-11.184-7.6056-2.0517-4.7852-2.5595-12.321-3.0665-19.857 6.7328-3.2823 13.466-6.5654 18.631-7.1895 5.1653-0.62415 8.7624 1.4106 12.221 5.5251s6.7791 10.31 10.1 16.505c2.0752-8.322 4.1505-16.644 7.2634-21.845 3.1129-5.2013 7.2634-7.2818 12.451-5.2013 5.1881 2.0805 11.414 8.322 17.64 14.564-4.1505 0-8.301 0-12.451 2.0805-4.1505 2.0805-8.301 6.2415-12.452 13.523-4.1505 7.2818-8.301 17.684-11.414 29.127-3.1129 11.443-5.1881 23.926-7.2634 36.409l-6.2257 18.725" fill="#ffef00" fill-rule="evenodd" stroke-width="1.0389"/>
+<path class="Rand2" d="m181.37 208.52-6.2257-18.725c18.677-4.161 37.354-8.322 59.145-10.403 21.79-2.0805 46.693-2.0805 68.483 0 21.79 2.0805 40.467 6.2415 59.145 10.403l-6.2257 18.725" fill="none" stroke-width="2.0779"/>
+<path class="Gold Rand2" d="m355.69 208.52a87.16 18.725 0 0 0-174.32 0 87.16 18.725 0 0 0 174.32 0z" fill="#ffef00" fill-rule="evenodd" stroke-width="2.0779"/>
+<path class="Schwarz Rand1" d="m315.17 193.53c-29.542-3.2028-61.944-3.987-93.386 0 30.57 8.3585 62.816 8.3585 93.386 0z" fill-rule="evenodd" stroke-width="1.0389"/>
+<g transform="matrix(1.0376 0 0 1.0402 17.389 28.696)">
+<g transform="matrix(.033334 -.057735 .057735 .033334 -110.06 384.72)" fill="none" fill-rule="evenodd" stroke-width="30">
+<path class="Gold Rand2" d="m3960 1305a180 180 0 0 0-360 0 180 180 0 0 0 360 0z" fill="#ffef00"/>
+<path class="Gold Rand2" d="m3780 6435a180 270 0 0 0-360 0 180 270 0 0 0 360 0z" fill="#ffef00"/>
+<path class="Gold Rand2" d="m3780 1125c-60 0-120 0-180 30s-120 90-150 180-30 210 30 315 180 195 315 225 285 0 405-75 210-195 240-352c30-158 0-353-90-503s-240-255-420-307c-180-53-390-53-570 22s-330 225-405 405-75 390-30 555 135 285 225 360 180 105 225 165 45 150 45 240v4050h360v-4050c15-120 30-240-75-345s-330-195-427-352c-98-158-68-383 0-533 67-150 172-225 277-263 105-37 210-37 315-7s210 90 270 187c60 98 75 233 52 338-22 105-82 180-187 218-105 37-255 37-330-8s-75-135-75-225" fill="#ffef00"/>
+<path class="Gold Rand2" d="m3420 6435h360a90 90 0 0 0 0-180h-360a90 90 0 0 0 0 180z" fill="#ffef00"/>
+<path class="Gold Rand2" d="m3780 2385h-360a140.63 140.63 0 1 0 0 270h360a140.63 140.63 0 1 0 0-270z" fill="#ffef00"/>
+<path class="Rand2" d="m3420 2835h360"/>
+</g>
+<g stroke-width="2">
+<path class="Silber Rand2" d="m329.46 245.61-230.83 140.2-9.5885 19.392 21.589 1.3923 236.83-129.8z" fill="#fff" fill-rule="evenodd"/>
+<path class="Rand2" d="m338.46 261.2-233.83 135" fill="none"/>
+</g>
+<path class="Gold Rand2" d="m443.19 214.59a12 12 45 0 0-12-20.785 12 12 45 0 0 12 20.785z" fill="#ffef00" fill-rule="evenodd" stroke-width="2"/>
+<path class="Gold Rand2" d="m339.85 239.61-15.589 9-6.5885 24.589 24.589 6.5885 15.589-9 74.943-50.196-12-20.785z" fill="#ffef00" fill-rule="evenodd" stroke-width="2"/>
+<path class="Gold Rand2" d="m326.46 240.42 24 41.569 9.8039 28.981 20.785-12-20.196-22.981-24-41.569-9.8039-28.981-20.785 12z" fill="#ffef00" fill-rule="evenodd" stroke-width="2"/>
+<path class="Rand2" d="m373.83 226.46 12.4 21.478" fill="none" stroke-width="2"/>
+<path class="Rand2" d="m406.2 210.54 10 17.321" fill="none" stroke-width="2"/>
+<path class="Rand2" d="m390.02 218.5 11.2 19.399" fill="none" stroke-width="2"/>
+<path class="Rand2" d="m357.64 234.42 13.6 23.556" fill="none" stroke-width="2"/>
+<path class="Gold Rand2" d="m440.07 208.81a5.5041 5.5041 0 0 0-5.5041-9.5334 5.5041 5.5041 0 0 0 5.5041 9.5334z" fill-rule="evenodd" stroke-width=".91735"/>
+</g>
+</g>
 </svg>

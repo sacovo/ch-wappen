@@ -1,114 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 12.0.1, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
 	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
 	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
 	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
 ]>
-<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 width="612" height="771" viewBox="-3.161 -5.16 612 771" enable-background="new -3.161 -5.16 612 771" xml:space="preserve">
-<defs>
-</defs>
-<path id="path3239_9_" fill="#E0141A" d="M1.377,1.5v457.989c0,165.992,134.058,300.556,299.426,300.556
-	c165.367,0,299.425-134.563,299.425-300.556V1.5H1.377z"/>
-<path fill="#F8E945" stroke="#000000" stroke-width="2" d="M199.862,166.983c0,0,19.58,7.195,52.602,10.766v49.979
-	c0,0,21.419,23.205,5.354,22.313v38.377c0,0,19.635,16.064,1.785,24.097c0,0,8.031,37.484,12.494,42.839l-36.257,36.368"/>
-<path fill="#F8E945" stroke="#000000" stroke-width="2" d="M221.449,453.305c0,0,29.229,75.194,38.154,78.764
-	c0,0-3.57,11.601-46.41-16.959"/>
-<path fill="#F8E945" stroke="#000000" stroke-width="2" d="M174.817,407.119c0,0,34.807,139.229-69.614,124.95
-	c0,0,23.203,37.484,67.828,39.269c0,0,6.248,57.12,66.045,61.582c0,0-48.194-78.539-11.603-205.272
-	c36.591-126.734-4.462-265.964-85.68-328.438c0,0-9.816-8.033-21.419-10.709c0,0-21.421-3.57-54.442-37.485
-	c0,0-21.418-18.742-14.279,5.355c0,0,24.99,41.055,40.162,54.442c0,0,19.857,30.567,14.279,31.237c0,0-9.817,16.064-47.302-41.947
-	c0,0-4.462-9.818-13.388-19.635c0,0-7.139,8.033,11.604,41.055c0,0,50.872,91.034,50.872,99.066s19.635,34.809-37.485,86.572
-	c0,0,9.816,26.774,41.054,7.139c0,0,19.634-16.066,32.129-30.345c0,0,10.71,78.541,24.098,92.82c0,0,8.032,53.55-37.485,66.938
-	c0,0,9.373,23.873,50.426,14.948"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M145.365,548.133c0,0,17.848-10.711,22.312-17.851"
-	/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M162.321,549.917c0,0,9.818-8.031,15.173-15.172"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M175.708,563.304c0,0,8.926-20.525,8.926-23.204"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M210.516,587.402c0,0-11.602-34.807-11.602-42.84"
-	/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M193.559,586.51c0,0-3.57-29.453-3.57-44.625"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M133.762,195.598c0,0,16.958-2.678,16.064-26.775
-	c0,0,22.313-9.818,5.355-37.484"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M108.771,164.361c0,0,7.14-10.708-2.677-20.527"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="181.957,190.244 189.096,187.566 
-	188.204,182.211 198.914,182.211 202.483,179.534 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="187.311,208.986 194.451,208.094 
-	194.451,202.739 205.161,200.953 206.054,195.598 210.516,195.598 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="194.451,225.05 202.483,225.05 
-	202.483,220.588 212.301,220.588 211.408,216.126 216.763,216.126 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="198.914,244.686 206.054,242.901 
-	206.054,238.438 214.086,238.438 214.086,235.761 219.441,234.869 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="200.699,264.321 209.624,262.536 
-	208.731,257.18 218.548,257.18 219.441,251.825 224.796,253.611 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="206.946,284.848 214.086,284.848 
-	214.979,277.708 223.011,278.6 224.796,273.245 229.258,274.138 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="211.408,303.59 217.656,303.59 
-	217.656,299.128 224.796,299.128 224.796,296.451 231.043,296.451 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="214.979,327.687 219.441,327.687 
-	219.441,321.439 225.689,321.439 225.689,316.084 230.151,316.084 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="218.548,342.859 224.796,342.859 
-	223.903,337.504 228.367,337.504 229.481,334.827 232.494,335.162 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-dasharray="3" d="M150.72,203.631
-	c0,0,40.162,80.324,48.194,184.746"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-dasharray="3" x1="145.978" y1="193.757" x2="147.818" y2="197.773"/>
-<circle cx="125.512" cy="116.492" r="5.932"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" cx="125.512" cy="116.49" r="11.368"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M112.788,258.519c0,0,6.694-6.248,8.033-18.742"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M116.804,268.336c0,0,10.263-15.618,12.049-22.312"
-	/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M122.159,278.6c0,0,11.157-12.495,12.942-20.081"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M130.639,285.293c0,0,6.246-4.909,8.478-10.264"/>
-<path fill="#F8E945" stroke="#000000" stroke-width="2" d="M402.305,164.983c0,0-19.58,7.195-52.603,10.766v49.979
-	c0,0-21.419,23.205-5.354,22.313v38.377c0,0-19.635,16.064-1.785,24.097c0,0-8.031,37.484-12.494,42.839l36.257,36.368"/>
-<path fill="#F8E945" stroke="#000000" stroke-width="2" d="M380.718,451.305c0,0-29.229,75.194-38.154,78.764
-	c0,0,3.57,11.601,46.41-16.959"/>
-<path fill="#F8E945" stroke="#000000" stroke-width="2" d="M427.35,405.119c0,0-34.808,139.229,69.614,124.95
-	c0,0-23.203,37.484-67.828,39.269c0,0-6.248,57.12-66.045,61.582c0,0,48.193-78.539,11.602-205.272
-	c-36.591-126.734,4.463-265.964,85.68-328.438c0,0,9.816-8.033,21.42-10.709c0,0,21.421-3.57,54.442-37.485
-	c0,0,21.418-18.742,14.278,5.355c0,0-24.99,41.055-40.161,54.442c0,0-19.857,30.567-14.279,31.237c0,0,9.817,16.064,47.302-41.947
-	c0,0,4.462-9.818,13.388-19.635c0,0,7.139,8.033-11.604,41.055c0,0-50.872,91.034-50.872,99.066s-19.635,34.809,37.484,86.572
-	c0,0-9.815,26.774-41.054,7.139c0,0-19.634-16.066-32.129-30.345c0,0-10.71,78.541-24.098,92.82c0,0-8.032,53.55,37.485,66.938
-	c0,0-9.373,23.873-50.427,14.948"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M456.802,546.133c0,0-17.848-10.711-22.312-17.851"
-	/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M439.845,547.917c0,0-9.818-8.031-15.173-15.172"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M426.458,561.304c0,0-8.926-20.525-8.926-23.204"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M391.652,585.402c0,0,11.602-34.807,11.602-42.84"
-	/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M408.608,584.51c0,0,3.57-29.453,3.57-44.625"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M468.405,193.598c0,0-16.958-2.678-16.064-26.775
-	c0,0-22.313-9.818-5.354-37.484"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M493.395,162.361c0,0-7.14-10.708,2.678-20.527"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="420.21,188.244 413.071,185.566 
-	413.962,180.211 403.253,180.211 399.683,177.534 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="414.856,206.986 407.716,206.094 
-	407.716,200.739 397.006,198.953 396.113,193.598 391.652,193.598 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="407.716,223.05 399.683,223.05 
-	399.683,218.588 389.866,218.588 390.759,214.126 385.404,214.126 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="403.253,242.686 396.113,240.901 
-	396.113,236.438 388.082,236.438 388.082,233.761 382.726,232.869 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="401.468,262.321 392.542,260.536 
-	393.435,255.18 383.619,255.18 382.726,249.825 377.371,251.611 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="395.22,282.848 388.082,282.848 
-	387.188,275.708 379.156,276.6 377.371,271.245 372.91,272.138 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="390.759,301.59 384.511,301.59 
-	384.511,297.128 377.371,297.128 377.371,294.451 371.124,294.451 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="387.188,325.687 382.726,325.687 
-	382.726,319.439 376.478,319.439 376.478,314.084 372.016,314.084 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" points="383.619,340.859 377.371,340.859 
-	378.264,335.504 373.8,335.504 372.685,332.827 369.673,333.162 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-dasharray="3" d="M451.447,201.631
-	c0,0-40.162,80.324-48.193,184.746"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" stroke-dasharray="3" x1="456.189" y1="191.757" x2="454.349" y2="195.773"/>
-<circle cx="476.655" cy="114.492" r="5.932"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" cx="476.655" cy="114.49" r="11.368"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M489.379,256.519c0,0-6.694-6.248-8.032-18.742"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M485.363,266.336c0,0-10.263-15.618-12.049-22.312"
-	/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M480.008,276.6c0,0-11.157-12.495-12.942-20.081"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="round" d="M471.529,283.293c0,0-6.246-4.909-8.479-10.264"/>
-<path id="path3239_8_" fill="none" stroke="#000000" stroke-width="3" d="M1.5,1.5v457.989
-	c0,165.992,134.058,300.556,299.425,300.556c165.368,0,299.426-134.563,299.426-300.556V1.5H1.5z"/>
+<svg width="612" height="771" enable-background="new -3.161 -5.16 612 771" version="1.1" viewBox="-3.161 -5.16 612 771" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+
+<path d="m1.377 1.5v457.99c0 165.99 134.06 300.56 299.43 300.56 165.37 0 299.42-134.56 299.42-300.56v-457.99h-598.85z" fill="#E0141A"/>
+<path d="m199.86 166.98s19.58 7.195 52.602 10.766v49.979s21.419 23.205 5.354 22.313v38.377s19.635 16.064 1.785 24.097c0 0 8.031 37.484 12.494 42.839l-36.257 36.368" fill="#F8E945" stroke="#000" stroke-width="2"/>
+<path d="m221.45 453.3s29.229 75.194 38.154 78.764c0 0-3.57 11.601-46.41-16.959" fill="#F8E945" stroke="#000" stroke-width="2"/>
+<path d="m174.82 407.12s34.807 139.23-69.614 124.95c0 0 23.203 37.484 67.828 39.269 0 0 6.248 57.12 66.045 61.582 0 0-48.194-78.539-11.603-205.27 36.591-126.73-4.462-265.96-85.68-328.44 0 0-9.816-8.033-21.419-10.709 0 0-21.421-3.57-54.442-37.485 0 0-21.418-18.742-14.279 5.355 0 0 24.99 41.055 40.162 54.442 0 0 19.857 30.567 14.279 31.237 0 0-9.817 16.064-47.302-41.947 0 0-4.462-9.818-13.388-19.635 0 0-7.139 8.033 11.604 41.055 0 0 50.872 91.034 50.872 99.066s19.635 34.809-37.485 86.572c0 0 9.816 26.774 41.054 7.139 0 0 19.634-16.066 32.129-30.345 0 0 10.71 78.541 24.098 92.82 0 0 8.032 53.55-37.485 66.938 0 0 9.373 23.873 50.426 14.948" fill="#F8E945" stroke="#000" stroke-width="2"/>
+<path d="m145.36 548.13s17.848-10.711 22.312-17.851" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m162.32 549.92s9.818-8.031 15.173-15.172" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m175.71 563.3s8.926-20.525 8.926-23.204" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m210.52 587.4s-11.602-34.807-11.602-42.84" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m193.56 586.51s-3.57-29.453-3.57-44.625" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m133.76 195.6s16.958-2.678 16.064-26.775c0 0 22.313-9.818 5.355-37.484" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m108.77 164.36s7.14-10.708-2.677-20.527" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="181.96 190.24 189.1 187.57 188.2 182.21 198.91 182.21 202.48 179.53" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="187.31 208.99 194.45 208.09 194.45 202.74 205.16 200.95 206.05 195.6 210.52 195.6" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="194.45 225.05 202.48 225.05 202.48 220.59 212.3 220.59 211.41 216.13 216.76 216.13" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="198.91 244.69 206.05 242.9 206.05 238.44 214.09 238.44 214.09 235.76 219.44 234.87" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="200.7 264.32 209.62 262.54 208.73 257.18 218.55 257.18 219.44 251.82 224.8 253.61" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="206.95 284.85 214.09 284.85 214.98 277.71 223.01 278.6 224.8 273.24 229.26 274.14" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="211.41 303.59 217.66 303.59 217.66 299.13 224.8 299.13 224.8 296.45 231.04 296.45" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="214.98 327.69 219.44 327.69 219.44 321.44 225.69 321.44 225.69 316.08 230.15 316.08" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="218.55 342.86 224.8 342.86 223.9 337.5 228.37 337.5 229.48 334.83 232.49 335.16" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m150.72 203.63s40.162 80.324 48.194 184.75" fill="none" stroke="#000" stroke-dasharray="3" stroke-linejoin="round" stroke-width="2"/>
+<line x1="145.98" x2="147.82" y1="193.76" y2="197.77" fill="none" stroke="#000" stroke-dasharray="3" stroke-linejoin="round" stroke-width="2"/>
+<circle cx="125.51" cy="116.49" r="5.932"/>
+<circle cx="125.51" cy="116.49" r="11.368" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m112.79 258.52s6.694-6.248 8.033-18.742" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m116.8 268.34s10.263-15.618 12.049-22.312" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m122.16 278.6s11.157-12.495 12.942-20.081" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m130.64 285.29s6.246-4.909 8.478-10.264" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m402.3 164.98s-19.58 7.195-52.603 10.766v49.979s-21.419 23.205-5.354 22.313v38.377s-19.635 16.064-1.785 24.097c0 0-8.031 37.484-12.494 42.839l36.257 36.368" fill="#F8E945" stroke="#000" stroke-width="2"/>
+<path d="m380.72 451.3s-29.229 75.194-38.154 78.764c0 0 3.57 11.601 46.41-16.959" fill="#F8E945" stroke="#000" stroke-width="2"/>
+<path d="m427.35 405.12s-34.808 139.23 69.614 124.95c0 0-23.203 37.484-67.828 39.269 0 0-6.248 57.12-66.045 61.582 0 0 48.193-78.539 11.602-205.27-36.591-126.73 4.463-265.96 85.68-328.44 0 0 9.816-8.033 21.42-10.709 0 0 21.421-3.57 54.442-37.485 0 0 21.418-18.742 14.278 5.355 0 0-24.99 41.055-40.161 54.442 0 0-19.857 30.567-14.279 31.237 0 0 9.817 16.064 47.302-41.947 0 0 4.462-9.818 13.388-19.635 0 0 7.139 8.033-11.604 41.055 0 0-50.872 91.034-50.872 99.066s-19.635 34.809 37.484 86.572c0 0-9.815 26.774-41.054 7.139 0 0-19.634-16.066-32.129-30.345 0 0-10.71 78.541-24.098 92.82 0 0-8.032 53.55 37.485 66.938 0 0-9.373 23.873-50.427 14.948" fill="#F8E945" stroke="#000" stroke-width="2"/>
+<path d="m456.8 546.13s-17.848-10.711-22.312-17.851" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m439.84 547.92s-9.818-8.031-15.173-15.172" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m426.46 561.3s-8.926-20.525-8.926-23.204" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m391.65 585.4s11.602-34.807 11.602-42.84" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m408.61 584.51s3.57-29.453 3.57-44.625" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m468.4 193.6s-16.958-2.678-16.064-26.775c0 0-22.313-9.818-5.354-37.484" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m493.4 162.36s-7.14-10.708 2.678-20.527" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="420.21 188.24 413.07 185.57 413.96 180.21 403.25 180.21 399.68 177.53" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="414.86 206.99 407.72 206.09 407.72 200.74 397.01 198.95 396.11 193.6 391.65 193.6" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="407.72 223.05 399.68 223.05 399.68 218.59 389.87 218.59 390.76 214.13 385.4 214.13" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="403.25 242.69 396.11 240.9 396.11 236.44 388.08 236.44 388.08 233.76 382.73 232.87" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="401.47 262.32 392.54 260.54 393.44 255.18 383.62 255.18 382.73 249.82 377.37 251.61" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="395.22 282.85 388.08 282.85 387.19 275.71 379.16 276.6 377.37 271.24 372.91 272.14" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="390.76 301.59 384.51 301.59 384.51 297.13 377.37 297.13 377.37 294.45 371.12 294.45" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="387.19 325.69 382.73 325.69 382.73 319.44 376.48 319.44 376.48 314.08 372.02 314.08" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<polyline points="383.62 340.86 377.37 340.86 378.26 335.5 373.8 335.5 372.68 332.83 369.67 333.16" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m451.45 201.63s-40.162 80.324-48.193 184.75" fill="none" stroke="#000" stroke-dasharray="3" stroke-linejoin="round" stroke-width="2"/>
+<line x1="456.19" x2="454.35" y1="191.76" y2="195.77" fill="none" stroke="#000" stroke-dasharray="3" stroke-linejoin="round" stroke-width="2"/>
+<circle cx="476.66" cy="114.49" r="5.932"/>
+<circle cx="476.66" cy="114.49" r="11.368" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m489.38 256.52s-6.694-6.248-8.032-18.742" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m485.36 266.34s-10.263-15.618-12.049-22.312" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m480.01 276.6s-11.157-12.495-12.942-20.081" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m471.53 283.29s-6.246-4.909-8.479-10.264" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+<path d="m1.5 1.5v457.99c0 165.99 134.06 300.56 299.42 300.56 165.37 0 299.43-134.56 299.43-300.56v-457.99h-598.85z" fill="none" stroke="#000" stroke-width="3"/>
 </svg>

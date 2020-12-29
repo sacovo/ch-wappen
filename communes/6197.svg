@@ -1,99 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="208.86046"
-   height="244.65999"
-   id="svg2780"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Kippel-blazon.svg">
-  <metadata
-     id="metadata27">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="3259"
-     inkscape:window-height="1417"
-     id="namedview25"
-     showgrid="false"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="106.04446"
-     inkscape:cy="112.35731"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2780"
-     inkscape:measure-start="104.255,149.787"
-     inkscape:measure-end="104.255,126.383"
-     showguides="false"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true">
-    <sodipodi:guide
-       position="104.43024,205.10638"
-       orientation="25.957447,0"
-       id="guide7901"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="49.361702,126.17021"
-       orientation="0,45.957446"
-       id="guide7903"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="104.43024,126.17021"
-       orientation="-117.48978,103.43021"
-       id="guide3629"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="104.43024,126.17021"
-       orientation="-117.48978,-103.43024"
-       id="guide3633"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <defs
-     id="defs2782" />
-  <path
-     id="path4212-7"
-     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 204.09935,159.00304 207.86045,1 C 138.90698,1 69.953503,1 1.000029,1 l 3.7611,158.00304 c 1.64138,68.95393 2.88226,67.30563 99.669111,84.64438 96.78685,-17.33875 98.02773,-15.69045 99.66911,-84.64438 z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sccscs" />
-  <path
-     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
-     d="m 14.612934,111.33922 18.830021,0.004 5.814766,-17.938072 5.814774,17.938072 18.830021,-0.004 -15.23631,11.08211 5.822825,17.93544 -15.23131,-11.08895 -15.231311,11.08895 5.822816,-17.93544 z"
-     id="path12002-5"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:9;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
-     d="m 32.242849,56.48978 54.580707,62.00002 -54.580668,61.99998 h 35.213339 l 36.974003,-41.99998 36.974,41.99998 h 35.21334 l -54.58065,-62 54.58068,-62 H 141.40426 L 104.43024,98.489789 67.456191,56.48978 Z"
-     id="path28167"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
-     d="m 194.24755,111.33919 -18.83002,0.004 -5.81477,-17.93807 -5.81478,17.93807 -18.83002,-0.004 15.23631,11.08211 -5.82282,17.93544 15.23131,-11.08895 15.23131,11.08895 -5.82282,-17.93544 z"
-     id="path12002"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 208.86 244.66" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:title/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path d="m204.1 159 3.7611-158h-206.86l3.7611 158c1.6414 68.954 2.8823 67.306 99.669 84.644 96.787-17.339 98.028-15.69 99.669-84.644z" fill="#cc2918" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+<path d="m14.613 111.34 18.83 4e-3 5.8148-17.938 5.8148 17.938 18.83-4e-3 -15.236 11.082 5.8228 17.935-15.231-11.089-15.231 11.089 5.8228-17.935z" fill="#feeb00" stroke="#000" stroke-dashoffset="4.58" stroke-miterlimit="8"/>
+<path d="m32.243 56.49 54.581 62-54.581 62h35.213l36.974-42 36.974 42h35.213l-54.581-62 54.581-62h-35.213l-36.974 42-36.974-42z" fill="#fff" stroke="#000" stroke-dashoffset="4.58" stroke-miterlimit="9"/>
+<path d="m194.25 111.34-18.83 4e-3 -5.8148-17.938-5.8148 17.938-18.83-4e-3 15.236 11.082-5.8228 17.935 15.231-11.089 15.231 11.089-5.8228-17.935z" fill="#feeb00" stroke="#000" stroke-dashoffset="4.58" stroke-miterlimit="8"/>
 </svg>

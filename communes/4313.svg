@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="520" height="585" viewBox="0,0 100,112.5">
-  <title>Wappen von Leuggern</title>
-  <desc>Wappen der Schweizer Gemeinde Leuggern, Kanton Aargau</desc>
-  <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke="black" stroke-width="2" fill="#f00000" />
-  <g stroke="black" stroke-width="1" fill="white">
-    <circle cx="50" cy="55" r="17.5" />
-    <circle cx="50" cy="55" r="14" fill="#f00000" />
-    <path d="M 47.5,52.5 L 34,3.5 50,18.7 66,3.5 52.5,52.5 96.8,38.7 86.5,55 95.9,71.2 52.5,57.5 66,105.9 50,91.5 34,105.9 47.5,57.5 4.1,71.2 13.5,55 3.2,38.7 z" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="520" height="585" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg">
+<title>Wappen von Leuggern</title>
+<desc>Wappen der Schweizer Gemeinde Leuggern, Kanton Aargau</desc>
+<path d="m1 1h98v61.5a49 49 0 0 1-98 0z" fill="#f00000" stroke="#000" stroke-width="2"/>
+<g fill="#fff" stroke="#000">
+<circle cx="50" cy="55" r="17.5"/>
+<circle cx="50" cy="55" r="14" fill="#f00000"/>
+<path d="m47.5 52.5-13.5-49 16 15.2 16-15.2-13.5 49 44.3-13.8-10.3 16.3 9.4 16.2-43.4-13.7 13.5 48.4-16-14.4-16 14.4 13.5-48.4-43.4 13.7 9.4-16.2-10.3-16.3z"/>
+</g>
 </svg>

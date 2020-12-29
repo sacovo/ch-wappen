@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="400" height="450" viewBox="0 0 100 112.5">
-  <title>Wappen von Beinwil am See</title>
-  <desc>Wappen der Schweizer Gemeinde Beinwil am See, Kanton Aargau</desc>
-  <defs>
-    <clipPath id="cpSchild">
-      <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" />
-    </clipPath>
-  </defs>
-  <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke="black" stroke-width="2" fill="white" />
-  <path d="M -20,63 L 99,1 31,133" stroke="black" stroke-width="1" fill="#0093dd" clip-path="url(#cpSchild)" />
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="400" height="450" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg">
+<title>Wappen von Beinwil am See</title>
+<desc>Wappen der Schweizer Gemeinde Beinwil am See, Kanton Aargau</desc>
+<defs>
+<clipPath id="a">
+<path d="m2 2h96v60.5a48 48 0 0 1-96 0z"/>
+</clipPath>
+</defs>
+<path d="m1 1h98v61.5a49 49 0 0 1-98 0z" fill="#fff" stroke="#000" stroke-width="2"/>
+<path d="m-20 63 119-62-68 132" clip-path="url(#a)" fill="#0093dd" stroke="#000"/>
 </svg>

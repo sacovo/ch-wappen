@@ -1,25 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="520" height="585" viewBox="0 0 100 112.5">
-  <title>Wappen von Wettingen</title>
-  <desc>Wappen der Schweizer Gemeinde Wettingen, Kanton Aargau</desc>
-  <defs>
-    <clipPath id="cpSchild">
-      <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" />
-    </clipPath>
-  </defs>
-  <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke="black" stroke-width="2" fill="#f00000" />
-  <path d="M 45,18.5 L 50,5 55,18.5 69,16 60,27 69,38 55,35.5 50,49 45,35.5 31,38 40,27 31,16 z" stroke="black" stroke-width="1" fill="#fcdb00" />
-  <g stroke="black" stroke-width="1" fill="white" clip-path="url(#cpSchild)">
-    <path id="welle" d="M -8.5,70 V 58.5 C -.5,58.5 3,55 11,55 s 11.5,3.5 19.5,3.5 S 42,55 50,55 s 11.5,3.5 19.5,3.5 S 81,55 89,55 s 11.5,3.5 19.5,3.5 V 70" />
-    <use y="8" fill="#0093dd" xlink:href="#welle" />
-    <use y="16" xlink:href="#welle" />
-    <use y="24" fill="#0093dd" xlink:href="#welle" />
-    <use y="32" xlink:href="#welle" />
-    <use y="40" fill="#0093dd" xlink:href="#welle" />
-    <use y="48" xlink:href="#welle" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="520" height="585" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Wappen von Wettingen</title>
+<desc>Wappen der Schweizer Gemeinde Wettingen, Kanton Aargau</desc>
+<defs>
+<clipPath id="b">
+<path d="m2 2h96v60.5a48 48 0 0 1-96 0z"/>
+</clipPath>
+</defs>
+<path d="m1 1h98v61.5a49 49 0 0 1-98 0z" fill="#f00000" stroke="#000" stroke-width="2"/>
+<path d="m45 18.5 5-13.5 5 13.5 14-2.5-9 11 9 11-14-2.5-5 13.5-5-13.5-14 2.5 9-11-9-11z" fill="#fcdb00" stroke="#000"/>
+<g clip-path="url(#b)" fill="#fff" stroke="#000">
+<path id="a" d="m-8.5 70v-11.5c8 0 11.5-3.5 19.5-3.5s11.5 3.5 19.5 3.5 11.5-3.5 19.5-3.5 11.5 3.5 19.5 3.5 11.5-3.5 19.5-3.5 11.5 3.5 19.5 3.5v11.5"/>
+<use y="8" fill="#0093dd" xlink:href="#a"/>
+<use y="16" xlink:href="#a"/>
+<use y="24" fill="#0093dd" xlink:href="#a"/>
+<use y="32" xlink:href="#a"/>
+<use y="40" fill="#0093dd" xlink:href="#a"/>
+<use y="48" xlink:href="#a"/>
+</g>
 </svg>

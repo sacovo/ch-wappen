@@ -1,369 +1,74 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="763"
-   width="603"
-   version="1.0"
-   id="svg20"
-   sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="Epalinges-coat_of_arms.svg"
-   sodipodi:docbase="C:\Documents and Settings\Steve\Bureau\Blason Villages Suisse pour Wikipédia (par Delta-9)"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <metadata
-     id="metadata31">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:date>07-AUG-2006</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Jérôme BLUM (wagner51)</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
-        <dc:coverage />
-        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
-        <dc:subject>
-          <rdf:Bag>
-            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
-          </rdf:Bag>
-        </dc:subject>
-        <dc:language>fr</dc:language>
-        <dc:title>Gabrit d'un blason suisse</dc:title>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
-        <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction" />
-        <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice" />
-        <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/SourceCode" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs29"><inkscape:perspective
-   sodipodi:type="inkscape:persp3d"
-   inkscape:vp_x="0 : 381.5 : 1"
-   inkscape:vp_y="0 : 1000 : 0"
-   inkscape:vp_z="603 : 381.5 : 1"
-   inkscape:persp3d-origin="301.5 : 254.33333 : 1"
-   id="perspective28" />
-<linearGradient
-   id="linearGradient2893">
-  <stop
-     style="stop-color:#ffffff;stop-opacity:0.3137255;"
-     offset="0"
-     id="stop2895" />
-  <stop
-     id="stop2897"
-     offset="0.19"
-     style="stop-color:#ffffff;stop-opacity:0.25098041;" />
-  <stop
-     style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
-     offset="0.60000002"
-     id="stop2901" />
-  <stop
-     style="stop-color:#000000;stop-opacity:0.1254902;"
-     offset="1"
-     id="stop2899" />
-</linearGradient>
-<linearGradient
-   id="linearGradient2955">
-  <stop
-     style="stop-color:white;stop-opacity:0;"
-     offset="0"
-     id="stop2965" />
-  <stop
-     style="stop-color:black;stop-opacity:0.64583331;"
-     offset="1"
-     id="stop2959" />
-</linearGradient>
-<radialGradient
-   inkscape:collect="always"
-   xlink:href="#linearGradient2893"
-   id="radialGradient3236"
-   gradientUnits="userSpaceOnUse"
-   gradientTransform="matrix(1.215027,1.531577e-24,1.464684e-23,1.266667,-839.1924,-490.4894)"
-   cx="858.04236"
-   cy="579.93323"
-   fx="858.04236"
-   fy="579.93323"
-   r="300" />
-<inkscape:perspective
-   id="perspective2589"
-   inkscape:persp3d-origin="297.63751 : 280.63 : 1"
-   inkscape:vp_z="595.27502 : 420.94501 : 1"
-   inkscape:vp_y="0 : 1000 : 0"
-   inkscape:vp_x="0 : 420.94501 : 1"
-   sodipodi:type="inkscape:persp3d" />
-
-	
-		
-	
-
-	
-	
-
-		
-		
-		
-		
-		
-	
-			
-				
-			
-				
-			
-		
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-			
-			
-			
-		
-			
-			
-		
-			
-			
-		</defs>
-  <sodipodi:namedview
-     inkscape:window-height="968"
-     inkscape:window-width="1280"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     inkscape:zoom="0.92652193"
-     inkscape:cx="173.53758"
-     inkscape:cy="399.00713"
-     inkscape:window-x="1280"
-     inkscape:window-y="22"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="horizontal"
-       position="761.5"
-       id="guide1885" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="1.5"
-       id="guide1887" />
-    <sodipodi:guide
-       orientation="horizontal"
-       position="1.5"
-       id="guide1889" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="601.5"
-       id="guide1891" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="301.50081"
-       id="guide1893" />
-  </sodipodi:namedview>
-  <desc
-     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Fond écu"
-     style="opacity:1;display:inline"
-     sodipodi:insensitive="true">
-    <path
-       id="path1899"
-       d="M 1.5,1.49998 L 1.5,460.3679 C 1.5,626.6785 135.81456,761.5 301.49999,761.5 C 467.18543,761.5 601.5,626.6785 601.5,460.3679 L 601.5,1.49998 L 1.5,1.49998 z"
-       style="fill:#e20909;fill-opacity:1" />
-    <rect
-       height="365.5"
-       width="600"
-       y="1.5"
-       x="1.5"
-       id="rect2505"
-       style="opacity:1;fill:#ffffff;display:inline" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Meubles"
-     style="opacity:1;display:inline"
-     sodipodi:insensitive="true">
-    <line
-       y2="367.00003"
-       x2="601.49896"
-       y1="367.00003"
-       x1="1.5"
-       stroke-miterlimit="11"
-       id="line2465"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-miterlimit:11" />
-    <g
-       id="g2738">
-      <path
-         style="stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-         d="M 268.862,520.978 C 269.943,529.804 271.745,545.297 267.241,548.18 C 262.737,551.062 237.876,550.882 221.662,549.441 C 206.545,548.097 196.439,547.38 188.863,553.57 C 188.314,554.018 188.312,554.836 189.956,554.664 C 194.888,554.148 205.089,553.81 207.791,559.35 C 210.493,564.89 202.758,571.242 198.721,574.07 C 197.376,575.012 197.633,575.233 199.545,574.933 C 207.1,573.746 225.899,573.05 226.849,595.221 C 226.873,595.8 227.461,596.336 228.494,595.221 C 231.826,591.619 239.926,583.322 248.866,577.545 C 260.575,569.98 266.521,558.629 277.51,557.549 C 281.193,557.187 285.198,557.876 287.586,558.171 C 288.647,558.3 288.846,557.766 288.077,556.89 C 286.381,554.957 283.206,551.644 280.267,550.261 C 277.97,549.18 280.46,538.227 278.906,523.77 L 268.862,520.978 z"
-         id="path2534" />
-      <path
-         style="stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-         d="M 332.85,588.204 C 325.947,587.516 317.864,567.81 313.541,549.621 L 304.894,548.9 C 308.136,565.833 313.251,584.573 306.177,589.255 C 301.672,591.346 299.748,594.836 289.985,598.486 C 275.538,603.888 253.731,606.837 247.483,623.083 C 247.012,624.31 247.295,625.889 248.968,624.565 C 252.718,621.599 260.093,617.542 268.502,622.401 C 277.501,627.599 277.473,637.831 276.85,642.799 C 276.632,644.544 277.036,645.073 278.28,644.227 C 284.761,639.817 306.119,627.775 321.445,648.262 C 322.093,649.129 323.197,649.8 322.995,647.676 C 322.174,639.019 320.697,615.75 326.872,602.674 C 331.467,592.945 342.275,589.702 342.275,589.702 C 342.275,589.702 338.38,588.89 332.85,588.204 z"
-         id="path2536" />
-      <path
-         d="M 498.376,462.607 C 493.15,460.627 478.919,461.346 467.751,464.949 C 458.848,467.82 451.905,471.258 449.449,472.537 C 458.44,467.178 456.761,450.357 456.761,450.357 C 444.871,466.929 426.856,463.328 426.856,463.328 C 434.601,460.626 436.585,448.556 436.585,448.556 C 423.974,453.961 411.004,448.556 401.275,423.334 C 391.546,398.113 363.803,339.744 343.986,313.441 C 324.436,287.495 299.982,264.004 274.161,248.501 C 273.232,247.867 272.96,246.959 272.893,246.505 C 269.836,225.59 269.588,204.262 282.284,187.336 C 295.255,170.041 300.93,151.396 300.93,129.507 C 300.93,116.266 296.606,109.24 296.606,109.24 C 305.253,114.105 312.819,109.24 312.819,109.24 C 296.336,107.078 292.552,74.651 261.476,74.651 C 230.4,74.651 208.241,104.106 208.241,104.106 C 158.519,108.97 153.926,128.967 153.926,128.967 C 176.117,123.166 206.715,124.137 217.8,124.736 C 204.368,144.371 166.357,154.549 166.357,154.549 C 192.299,161.755 230.851,144.461 230.851,144.461 C 230.851,144.461 236.976,156.351 235.535,168.961 C 228.956,226.523 205.45,228.951 184.372,250.029 C 163.293,271.107 144.379,301.553 144.379,339.025 C 144.379,388.386 205.945,464.995 229.05,488.1 C 238.405,497.455 251.086,508.893 264.782,519.194 C 266.29,525.978 268.142,530.167 276.97,530.167 C 278.27,530.167 279.461,530.174 280.568,530.172 C 286.18,533.74 291.815,536.941 297.33,539.566 C 298.972,547.5 300.284,552.506 309.938,552.506 C 319.554,552.506 323.652,552.921 325.854,546.986 C 378.245,546.477 424.967,517.898 455.23,495.937 C 485.766,473.777 486.307,466.93 498.376,462.607 z"
-         id="path2540" />
-      <path
-         style="fill:#e20909"
-         d="M 153.926,128.966 C 176.117,123.165 206.715,124.136 217.8,124.735 C 204.368,144.37 166.357,154.548 166.357,154.548 C 192.299,161.754 230.851,144.46 230.851,144.46 C 226.525,130.702 222.023,125.003 222.023,125.003 C 222.023,115.274 208.242,104.105 208.242,104.105 C 158.52,108.969 153.926,128.966 153.926,128.966 z"
-         id="path2542" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-         d="M 230.85,144.459 C 226.524,130.701 222.022,125.002 222.022,125.002 C 222.022,115.273 208.241,104.104 208.241,104.104"
-         id="path2546" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-         d="M 222.023,125.003 C 222.023,125.003 220.483,124.879 217.8,124.734"
-         id="path2548" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-         d="M 498.376,462.607 C 493.15,460.627 478.919,461.346 467.751,464.949 C 458.848,467.82 451.905,471.258 449.449,472.537 C 458.44,467.178 456.761,450.357 456.761,450.357 C 444.871,466.929 426.856,463.328 426.856,463.328 C 434.601,460.626 436.585,448.556 436.585,448.556 C 423.974,453.961 411.004,448.556 401.275,423.334 C 391.546,398.113 363.803,339.744 343.986,313.441 C 324.436,287.495 299.982,264.004 274.161,248.501 C 273.232,247.867 272.96,246.959 272.893,246.505 C 269.836,225.59 269.588,204.262 282.284,187.336 C 295.255,170.041 300.93,151.396 300.93,129.507 C 300.93,116.266 296.606,109.24 296.606,109.24 C 305.253,114.105 312.819,109.24 312.819,109.24 C 296.336,107.078 292.552,74.651 261.476,74.651 C 230.4,74.651 208.241,104.106 208.241,104.106 C 158.519,108.97 153.926,128.967 153.926,128.967 C 176.117,123.166 206.715,124.137 217.8,124.736 C 204.368,144.371 166.357,154.549 166.357,154.549 C 192.299,161.755 230.851,144.461 230.851,144.461 C 230.851,144.461 236.976,156.351 235.535,168.961 C 228.956,226.523 205.45,228.951 184.372,250.029 C 163.293,271.107 144.379,301.553 144.379,339.025 C 144.379,388.386 205.945,464.995 229.05,488.1 C 238.405,497.455 251.086,508.893 264.782,519.194 C 266.29,525.978 268.142,530.167 276.97,530.167 C 278.27,530.167 279.461,530.174 280.568,530.172 C 286.18,533.74 291.815,536.941 297.33,539.566 C 298.972,547.5 300.284,552.506 309.938,552.506 C 319.554,552.506 323.652,552.921 325.854,546.986 C 378.245,546.477 424.967,517.898 455.23,495.937 C 485.766,473.777 486.307,466.93 498.376,462.607 z"
-         id="path2550" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 407.94,444.051 C 354.076,423.852 332.704,377.578 306.513,340.103 C 286.455,311.401 260.238,287.319 234.454,287.319 C 214.457,287.319 203.108,302.992 203.108,316.504 C 203.108,335.42 223.579,382.547 268.503,419.191 C 315.972,457.909 386.121,480.737 417.128,467.292"
-         id="path2554" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 206.593,334.137 C 215.401,354.682 247.785,357.399 257.874,342.987 C 270.484,355.597 300.383,352.201 300.383,331.741"
-         id="path2556" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 217.08,357.838 C 227.969,378.383 261.117,384.061 272.646,364.604 C 287.34,382.547 322.174,378.368 318.227,357.64"
-         id="path2558" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 241.142,392.484 C 253.852,406.077 275.529,411.804 287.779,392.708 C 305.975,410.904 338.935,406.616 334.796,382.547"
-         id="path2560" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 278.702,427.019 C 295.425,438.097 306.334,427.837 310.928,418.109 C 328.899,436.08 364.186,422.413 351.743,404.317"
-         id="path2562" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 284.851,627.671 C 292.687,617.942 304.916,612.47 312.414,601.594"
-         id="path2564" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 269.403,612.853 C 269.403,612.853 277.329,612.494 280.572,619.88"
-         id="path2566" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 295.704,629.068 C 295.704,629.068 306.515,623.483 312.279,631.589"
-         id="path2568" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 219.591,568.897 C 231.751,566.735 246.614,560.25 249.451,560.25"
-         id="path2570" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 213.916,554.485 C 213.916,554.485 222.204,557.368 216.979,564.934"
-         id="path2572" />
-      <path
-         style="fill:none;stroke:#ffffff;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round"
-         d="M 225.987,572.861 C 225.987,572.861 232.517,574.367 231.571,583.67"
-         id="path2574" />
-      <ellipse
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-linejoin:round"
-         sodipodi:ry="2.589"
-         sodipodi:rx="2.4619999"
-         sodipodi:cy="104.911"
-         sodipodi:cx="247.283"
-         transform="matrix(0.9724,-0.2334,0.2334,0.9724,-17.692504,60.5559)"
-         cx="247.283"
-         cy="104.911"
-         rx="2.4619999"
-         ry="2.589"
-         id="ellipse2578" />
-      <ellipse
-         style="stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-         sodipodi:ry="2.589"
-         sodipodi:rx="2.4619999"
-         sodipodi:cy="104.911"
-         sodipodi:cx="247.283"
-         transform="matrix(0.9724,-0.2334,0.2334,0.9724,-17.692504,60.5559)"
-         cx="247.283"
-         cy="104.911"
-         rx="2.4619999"
-         ry="2.589"
-         id="ellipse2580" />
-      <circle
-         transform="translate(-3.8003567e-2,-4.5000331e-2)"
-         style="fill:#ffffff"
-         sodipodi:ry="0.898"
-         sodipodi:rx="0.898"
-         sodipodi:cy="103.609"
-         sodipodi:cx="248.138"
-         cx="248.138"
-         cy="103.609"
-         r="0.898"
-         id="circle2582" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Reflet final"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:url(#radialGradient3236);fill-opacity:1"
-       d="M 1.5,1.5 L 1.5,460.3679 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.3679 L 601.5,1.5 L 1.5,1.5 z "
-       id="path2346" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Contour final"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1.5,1.5 L 1.5,460.36794 C 1.5,626.67854 135.81454,761.5 301.49993,761.5 C 467.1854,761.5 601.5,626.67854 601.5,460.36794 L 601.5,1.5 L 1.5,1.5 z "
-       id="path3239" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 603 763" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<dc:date>07-AUG-2006</dc:date>
+<dc:creator>
+<cc:Agent>
+<dc:title>Jérôme BLUM (wagner51)</dc:title>
+</cc:Agent>
+</dc:creator>
+<cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
+<dc:coverage/>
+<dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+</rdf:Bag>
+</dc:subject>
+<dc:language>fr</dc:language>
+<dc:title>Gabrit d'un blason suisse</dc:title>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+<cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+<cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+<cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+<cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+<cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+<cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+<defs>
+<radialGradient id="a" cx="858.04" cy="579.93" r="300" gradientTransform="matrix(1.215 1.5316e-24 1.4647e-23 1.2667 -839.19 -490.49)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" stop-opacity=".31373" offset="0"/>
+<stop stop-color="#fff" stop-opacity=".25098" offset=".19"/>
+<stop stop-color="#6b6b6b" stop-opacity=".12549" offset=".6"/>
+<stop stop-opacity=".12549" offset="1"/>
+</radialGradient>
+</defs>
+<desc>Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+<g>
+<path d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13 165.69 0 300-134.82 300-301.13v-458.87h-600z" fill="#e20909"/>
+<rect x="1.5" y="1.5" width="600" height="365.5" fill="#fff"/>
+<line x1="1.5" x2="601.5" y1="367" y2="367" fill="#fff" stroke="#000" stroke-miterlimit="11" stroke-width="3"/>
+<path d="m268.86 520.98c1.081 8.826 2.883 24.319-1.621 27.202-4.504 2.882-29.365 2.702-45.579 1.261-15.117-1.344-25.223-2.061-32.799 4.129-0.549 0.448-0.551 1.266 1.093 1.094 4.932-0.516 15.133-0.854 17.835 4.686s-5.033 11.892-9.07 14.72c-1.345 0.942-1.088 1.163 0.824 0.863 7.555-1.187 26.354-1.883 27.304 20.288 0.024 0.579 0.612 1.115 1.645 0 3.332-3.602 11.432-11.899 20.372-17.676 11.709-7.565 17.655-18.916 28.644-19.996 3.683-0.362 7.688 0.327 10.076 0.622 1.061 0.129 1.26-0.405 0.491-1.281-1.696-1.933-4.871-5.246-7.81-6.629-2.297-1.081 0.193-12.034-1.361-26.491l-10.044-2.792z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="m332.85 588.2c-6.903-0.688-14.986-20.394-19.309-38.583l-8.647-0.721c3.242 16.933 8.357 35.673 1.283 40.355-4.505 2.091-6.429 5.581-16.192 9.231-14.447 5.402-36.254 8.351-42.502 24.597-0.471 1.227-0.188 2.806 1.485 1.482 3.75-2.966 11.125-7.023 19.534-2.164 8.999 5.198 8.971 15.43 8.348 20.398-0.218 1.745 0.186 2.274 1.43 1.428 6.481-4.41 27.839-16.452 43.165 4.035 0.648 0.867 1.752 1.538 1.55-0.586-0.821-8.657-2.298-31.926 3.877-45.002 4.595-9.729 15.403-12.972 15.403-12.972s-3.895-0.812-9.425-1.498z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="m498.38 462.61c-5.226-1.98-19.457-1.261-30.625 2.342-8.903 2.871-15.846 6.309-18.302 7.588 8.991-5.359 7.312-22.18 7.312-22.18-11.89 16.572-29.905 12.971-29.905 12.971 7.745-2.702 9.729-14.772 9.729-14.772-12.611 5.405-25.581 0-35.31-25.222-9.729-25.221-37.472-83.59-57.289-109.89-19.55-25.946-44.004-49.437-69.825-64.94-0.929-0.634-1.201-1.542-1.268-1.996-3.057-20.915-3.305-42.243 9.391-59.169 12.971-17.295 18.646-35.94 18.646-57.829 0-13.241-4.324-20.267-4.324-20.267 8.647 4.865 16.213 0 16.213 0-16.483-2.162-20.267-34.589-51.343-34.589s-53.235 29.455-53.235 29.455c-49.722 4.864-54.315 24.861-54.315 24.861 22.191-5.801 52.789-4.83 63.874-4.231-13.432 19.635-51.443 29.813-51.443 29.813 25.942 7.206 64.494-10.088 64.494-10.088s6.125 11.89 4.684 24.5c-6.579 57.562-30.085 59.99-51.163 81.068-21.079 21.078-39.993 51.524-39.993 88.996 0 49.361 61.566 125.97 84.671 149.08 9.355 9.355 22.036 20.793 35.732 31.094 1.508 6.784 3.36 10.973 12.188 10.973 1.3 0 2.491 7e-3 3.598 5e-3 5.612 3.568 11.247 6.769 16.762 9.394 1.642 7.934 2.954 12.94 12.608 12.94 9.616 0 13.714 0.415 15.916-5.52 52.391-0.509 99.113-29.088 129.38-51.049 30.536-22.16 31.077-29.007 43.146-33.33z"/>
+<path d="m153.93 128.97c22.191-5.801 52.789-4.83 63.874-4.231-13.432 19.635-51.443 29.813-51.443 29.813 25.942 7.206 64.494-10.088 64.494-10.088-4.326-13.758-8.828-19.457-8.828-19.457 0-9.729-13.781-20.898-13.781-20.898-49.722 4.864-54.316 24.861-54.316 24.861z" fill="#e20909"/>
+<path d="m230.85 144.46c-4.326-13.758-8.828-19.457-8.828-19.457 0-9.729-13.781-20.898-13.781-20.898" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="m222.02 125s-1.54-0.124-4.223-0.269" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="m498.38 462.61c-5.226-1.98-19.457-1.261-30.625 2.342-8.903 2.871-15.846 6.309-18.302 7.588 8.991-5.359 7.312-22.18 7.312-22.18-11.89 16.572-29.905 12.971-29.905 12.971 7.745-2.702 9.729-14.772 9.729-14.772-12.611 5.405-25.581 0-35.31-25.222-9.729-25.221-37.472-83.59-57.289-109.89-19.55-25.946-44.004-49.437-69.825-64.94-0.929-0.634-1.201-1.542-1.268-1.996-3.057-20.915-3.305-42.243 9.391-59.169 12.971-17.295 18.646-35.94 18.646-57.829 0-13.241-4.324-20.267-4.324-20.267 8.647 4.865 16.213 0 16.213 0-16.483-2.162-20.267-34.589-51.343-34.589s-53.235 29.455-53.235 29.455c-49.722 4.864-54.315 24.861-54.315 24.861 22.191-5.801 52.789-4.83 63.874-4.231-13.432 19.635-51.443 29.813-51.443 29.813 25.942 7.206 64.494-10.088 64.494-10.088s6.125 11.89 4.684 24.5c-6.579 57.562-30.085 59.99-51.163 81.068-21.079 21.078-39.993 51.524-39.993 88.996 0 49.361 61.566 125.97 84.671 149.08 9.355 9.355 22.036 20.793 35.732 31.094 1.508 6.784 3.36 10.973 12.188 10.973 1.3 0 2.491 7e-3 3.598 5e-3 5.612 3.568 11.247 6.769 16.762 9.394 1.642 7.934 2.954 12.94 12.608 12.94 9.616 0 13.714 0.415 15.916-5.52 52.391-0.509 99.113-29.088 129.38-51.049 30.536-22.16 31.077-29.007 43.146-33.33z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="m407.94 444.05c-53.864-20.199-75.236-66.473-101.43-103.95-20.058-28.702-46.275-52.784-72.059-52.784-19.997 0-31.346 15.673-31.346 29.185 0 18.916 20.471 66.043 65.395 102.69 47.469 38.718 117.62 61.546 148.62 48.101" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m206.59 334.14c8.808 20.545 41.192 23.262 51.281 8.85 12.61 12.61 42.509 9.214 42.509-11.246" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m217.08 357.84c10.889 20.545 44.037 26.223 55.566 6.766 14.694 17.943 49.528 13.764 45.581-6.964" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m241.14 392.48c12.71 13.593 34.387 19.32 46.637 0.224 18.196 18.196 51.156 13.908 47.017-10.161" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m278.7 427.02c16.723 11.078 27.632 0.818 32.226-8.91 17.971 17.971 53.258 4.304 40.815-13.792" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m284.85 627.67c7.836-9.729 20.065-15.201 27.563-26.077" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m269.4 612.85s7.926-0.359 11.169 7.027" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m295.7 629.07s10.811-5.585 16.575 2.521" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m219.59 568.9c12.16-2.162 27.023-8.647 29.86-8.647" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m213.92 554.48s8.288 2.883 3.063 10.449" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<path d="m225.99 572.86s6.53 1.506 5.584 10.809" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+<ellipse transform="matrix(.9724 -.2334 .2334 .9724 -17.693 60.556)" cx="247.28" cy="104.91" rx="2.462" ry="2.589" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+<ellipse transform="matrix(.9724 -.2334 .2334 .9724 -17.693 60.556)" cx="247.28" cy="104.91" rx="2.462" ry="2.589" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<circle transform="translate(-.038004 -.045)" cx="248.14" cy="103.61" r=".898" fill="#fff"/>
+</g>
+<g>
+<path d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13 165.69 0 300-134.82 300-301.13v-458.87h-600z" fill="url(#a)"/>
+<path d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13 165.69 0 300-134.82 300-301.13v-458.87h-600z" fill="none" stroke="#000" stroke-width="3"/>
+</g>
 </svg>

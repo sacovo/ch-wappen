@@ -1,26 +1,29 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-206 -357 412 492" height="492" width="412">
-<path stroke="#000" stroke-width="8" d="m-201-352v280a201 201 0 0 0 402 0v-280z" fill="#fff"/>
-<use xlink:href="#k" transform="scale(-1,1)"/>
-<g id="k" stroke="#000" stroke-width="3" transform="rotate(-30,0,-168)">
-<path d="m-3-217h-72v-19h-19v19h-20v-46h47v17h18v-17h17v-20h-17v-17h-18v17h-47v-46h20v19h19v-19h72" stroke-width="3" fill="#38c"/>
-<rect rx="12" height="295" width="24" y="-351" x="-12" fill="#38c"/>
-<use xlink:href="#a" y="-36"/>
-<use xlink:href="#f" stroke-width="37"/>
-<use xlink:href="#f" stroke="#38c" stroke-width="31"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="412" height="492" viewBox="-206 -357 412 492" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="m-201-352v280a201 201 0 0 0 402 0v-280z" fill="#fff" stroke="#000" stroke-width="8"/>
+<use transform="scale(-1,1)" xlink:href="#k"/>
+<g id="k" transform="rotate(-30,0,-168)" stroke="#000" stroke-width="3">
+<path d="m-3-217h-72v-19h-19v19h-20v-46h47v17h18v-17h17v-20h-17v-17h-18v17h-47v-46h20v19h19v-19h72" fill="#38c" stroke-width="3"/>
+<rect x="-12" y="-351" width="24" height="295" rx="12" fill="#38c"/>
+<use y="-36" xlink:href="#a"/>
+<use stroke-width="37" xlink:href="#f"/>
+<use stroke="#38c" stroke-width="31" xlink:href="#f"/>
 <g id="f">
 <g id="g">
 <use id="b" y="-24" xlink:href="#c"/>
-<use xlink:href="#b" transform="scale(1,-1)"/>
+<use transform="scale(1,-1)" xlink:href="#b"/>
 </g>
-<use xlink:href="#g" transform="rotate(90)"/>
+<use transform="rotate(90)" xlink:href="#g"/>
 </g>
-<g stroke="#fff" stroke-width="9"><circle id="c" r="18" fill="#fff"/></g>
+<g stroke="#fff" stroke-width="9">
+<circle id="c" r="18" fill="#fff"/>
+</g>
 <g id="d">
-<use width="412" xlink:href="#e" transform="rotate(90)" height="492"/>
+<use transform="rotate(90)" width="412" height="492" xlink:href="#e"/>
 <g id="e">
-<rect id="a" rx="9" height="18" width="46" y="-74" x="-23" fill="#38c"/>
+<rect id="a" x="-23" y="-74" width="46" height="18" rx="9" fill="#38c"/>
 </g>
 </g>
-<use width="412" xlink:href="#d" transform="rotate(180)" height="492"/>
-</g></svg>
+<use transform="rotate(180)" width="412" height="492" xlink:href="#d"/>
+</g>
+</svg>

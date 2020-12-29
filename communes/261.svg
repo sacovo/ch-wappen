@@ -1,52 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Ebene_1"
-   x="0px"
-   y="0px"
-   width="406.224px"
-   height="492.466px"
-   viewBox="-175.818 -214.101 406.224 492.466"
-   enable-background="new -175.818 -214.101 406.224 492.466"
-   xml:space="preserve"
-   sodipodi:docname="261.svg"><metadata
-   id="metadata15"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs13" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="640"
-   inkscape:window-height="480"
-   id="namedview11" />
-<g
-   id="g8">
-	<path
-   fill="#FFFFFF"
-   d="M27.194-212.026h201.734v296.5c0,106.563-90.25,192.938-201.602,192.938   c-111.336,0-201.59-86.375-201.59-192.938v-296.5H27.194L27.194-212.026z"
-   id="path2" />
-	<path
-   fill="#248BCC"
-   d="M-174.263,84.458c0,106.563,90.254,192.953,201.59,192.953c74.461,0,140.805-40.906,175.711-98.357   l-377.301-391.414V84.458z"
-   id="path4" />
-	<path
-   fill="none"
-   stroke="#000000"
-   stroke-width="3.048"
-   d="M27.159-212.577h201.722V83.927   c0,106.531-90.233,192.913-201.577,192.913c-111.336,0-201.598-86.382-201.598-192.913v-296.504H27.159z"
-   id="path6" />
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="406.22px" height="492.47px" enable-background="new -175.818 -214.101 406.224 492.466" version="1.1" viewBox="-175.82 -214.1 406.22 492.47" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/></cc:Work></rdf:RDF></metadata>
+
+	<path d="m27.194-212.03h201.73v296.5c0 106.56-90.25 192.94-201.6 192.94-111.34 0-201.59-86.375-201.59-192.94v-296.5h201.46z" fill="#fff"/>
+	<path d="m-174.26 84.458c0 106.56 90.254 192.95 201.59 192.95 74.461 0 140.8-40.906 175.71-98.357l-377.3-391.41v296.82z" fill="#248BCC"/>
+	<path d="m27.159-212.58h201.72v296.5c0 106.53-90.233 192.91-201.58 192.91-111.34 0-201.6-86.382-201.6-192.91v-296.5h201.45z" fill="none" stroke="#000" stroke-width="3.048"/>
+
 </svg>

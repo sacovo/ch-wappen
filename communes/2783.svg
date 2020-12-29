@@ -1,81 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="525"
-   height="612"
-   viewBox="0 0 350 408"
-   id="svg23"
-   sodipodi:docname="2783.svg">
-  <metadata
-     id="metadata27">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview25" />
-  <title
-     id="title2">Wappen von Burg im Leimental</title>
-  <desc
-     id="desc4">Wappen der Schweizer Gemeinde Burg im Leimental, Kanton Baselland</desc>
-  <defs
-     id="defs9">
-    <clipPath
-       id="cpSchild">
-      <path
-         d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z"
-         id="path6" />
-    </clipPath>
-  </defs>
-  <path
-     d="M 0,0 h 350 V 233 A 175 175 0 0 1 0,233 z"
-     id="path11" />
-  <path
-     d="M 0,0 H 350 V 158 H 0 v 92 H 350 V 408 H 0"
-     fill="white"
-     clip-path="url(#cpSchild)"
-     id="path13" />
-  <g
-     stroke="black"
-     stroke-width="4"
-     fill="#e2001a"
-     id="g21">
-    <circle
-       cx="95"
-       cy="81"
-       r="60"
-       id="circle15" />
-    <circle
-       cx="255"
-       cy="81"
-       r="60"
-       id="circle17" />
-    <circle
-       cx="175"
-       cy="327"
-       r="60"
-       id="circle19" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="525" height="612" version="1.1" viewBox="0 0 350 408" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen von Burg im Leimental</title>
+<desc>Wappen der Schweizer Gemeinde Burg im Leimental, Kanton Baselland</desc>
+<defs>
+<clipPath id="a">
+<path d="m4 4h342v229a171 171 0 0 1-342 0z"/>
+</clipPath>
+</defs>
+<path d="m0 0h350v233a175 175 0 0 1-350 0z"/>
+<path d="m0 0h350v158h-350v92h350v158h-350" clip-path="url(#a)" fill="#fff"/>
+<g fill="#e2001a" stroke="#000" stroke-width="4">
+<circle cx="95" cy="81" r="60"/>
+<circle cx="255" cy="81" r="60"/>
+<circle cx="175" cy="327" r="60"/>
+</g>
 </svg>

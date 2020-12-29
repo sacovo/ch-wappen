@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="400" height="450" viewBox="0 0 100 112.5">
-  <title>Wappen von Unterkulm</title>
-  <desc>Wappen der Schweizer Gemeinde Unterkulm, Kanton Aargau</desc>
-  <defs>
-    <clipPath id="cpSchild">
-      <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" />
-    </clipPath>
-  </defs>
-  <path d="M 0,0 H 100 V 62.5 A 50 50 0 0 1 0,62.5" />
-  <g clip-path="url(#cpSchild)">
-    <path d="M 2,38.5 H 98 V 74 H 2" fill="white" />
-    <path d="M 2,75 H 98 v 35.5 H 2" fill="#0093dd" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="400" height="450" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg">
+<title>Wappen von Unterkulm</title>
+<desc>Wappen der Schweizer Gemeinde Unterkulm, Kanton Aargau</desc>
+<defs>
+<clipPath id="a">
+<path d="m2 2h96v60.5a48 48 0 0 1-96 0z"/>
+</clipPath>
+</defs>
+<path d="m0 0h100v62.5a50 50 0 0 1-100 0"/>
+<g clip-path="url(#a)">
+<path d="m2 38.5h96v35.5h-96" fill="#fff"/>
+<path d="m2 75h96v35.5h-96" fill="#0093dd"/>
+</g>
 </svg>

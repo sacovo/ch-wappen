@@ -1,44 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="277.00006"
-   height="324.46243"
-   id="svg2780">
-  <defs
-     id="defs2782" />
-  <g
-     transform="translate(14.78503,-790.32921)"
-     id="layer1">
-    <path
-       d="M -13.78503,791.32921 L -8.7850345,1001.3047 C -5.2136185,1151.2873 252.64359,1151.2873 256.21502,1001.3047 L 261.21502,791.32921 L -13.78503,791.32921 z"
-       id="path3282"
-       style="fill:#fdea39;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       d="M 29.605817,834.56017 L 33.027965,988.23485 C 35.47235,1098.0026 211.95763,1098.0026 214.40202,988.23485 L 217.82417,834.56017 L 29.605817,834.56017 z"
-       id="path7481"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       d="M 33.222417,954.79641 L 63.393518,1049.541 L 93.564615,954.79641 L 123.73573,834.65997 L 153.9068,954.79641 L 184.07792,1049.541 L 214.249,954.79641 L 184.07792,834.65997 L 153.9068,954.79641 L 123.73573,1070.0787 L 93.564615,954.79641 L 63.393518,834.65997 L 33.222417,954.79641 z"
-       id="path7492"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 184.07793,834.65997 L 184.07793,1049.541"
-       id="path7487"
-       style="fill:none;fill-opacity:0.65573772;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 31.804042,954.79641 L 215.62595,954.79641"
-       id="path7314"
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 123.73612,834.65997 L 123.73612,1070.0787"
-       id="path7301"
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       d="M 63.393521,834.65997 L 63.393521,1049.541"
-       id="path6782"
-       style="fill:none;fill-opacity:0.65573772;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 277 324.46" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(14.785 -790.33)">
+<path d="m-13.785 791.33 5 209.98c3.5714 149.98 261.43 149.98 265 0l5-209.98h-275z" fill="#fdea39" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+<path d="m29.606 834.56 3.4221 153.67c2.4444 109.77 178.93 109.77 181.37 0l3.4222-153.67h-188.22z" fill-rule="evenodd" stroke="#000" stroke-width="2"/>
+<path d="m33.222 954.8 30.171 94.745 30.171-94.745 30.171-120.14 30.171 120.14 30.171 94.745 30.171-94.745-30.171-120.14-30.171 120.14-30.171 115.28-30.171-115.28-30.171-120.14-30.171 120.14z" fill="#fff" fill-rule="evenodd"/>
+<path d="m184.08 834.66v214.88" fill="none" stroke="#000" stroke-width="1px"/>
+<path d="m31.804 954.8h183.82" fill="none" stroke="#000" stroke-width="1px"/>
+<path d="m123.74 834.66v235.42" fill="none" stroke="#000" stroke-width="1px"/>
+<path d="m63.394 834.66v214.88" fill="none" stroke="#000" stroke-width="1px"/>
+</g>
 </svg>

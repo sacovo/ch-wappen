@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="520" height="585" viewBox="0,0 100,112.5">
-  <title>Wappen von Rheinfelden</title>
-  <desc>Wappen der Schweizer Gemeinde Rheinfelden, Kanton Aargau</desc>
-  <defs>
-    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48,48 0 0,1 2,62.5 z" /> </clipPath>
-  </defs>
-  <path d="M 1,1 H 99 V 62.5 A 49,49 0 0,1 1,62.5 z" stroke="black" stroke-width="2" fill="#f00000" />
-  <path d="M 0,1.5 H 100 V 18.5 H 0 V 35.5 H 100 V 52.5 H 0 V 69.5 H 100 V 86.5 H 0" stroke="black" stroke-width="1" fill="#fcdb00" clip-path="url(#cpSchild)" />
-  <g id="stern3">
-    <path d="M 20.15,24.142 L 21.8,20.375 23.45,24.142 27.551,23.696 25.1,27 27.551,30.304 23.45,29.858 21.8,33.625 20.15,29.858 16.049,30.304 18.5,27 16.049,23.696 z"
-          id="stern" stroke="black" stroke-width="0.7" fill="#fcdb00" />
-    <use x="28.2" xlink:href="#stern" />
-    <use x="56.4" xlink:href="#stern" />
-  </g>
-  <use y="34" xlink:href="#stern3" />
-  <use x="5.2" y="68.3" xlink:href="#stern" />
-  <use x="51.2" y="68.3" xlink:href="#stern" />
-  <use x="28.2" y="73.3" xlink:href="#stern" />
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="520" height="585" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Wappen von Rheinfelden</title>
+<desc>Wappen der Schweizer Gemeinde Rheinfelden, Kanton Aargau</desc>
+<defs>
+<clipPath id="c">
+<path d="m2 2h96v60.5a48 48 0 0 1-96 0z"/>
+</clipPath>
+</defs>
+<path d="m1 1h98v61.5a49 49 0 0 1-98 0z" fill="#f00000" stroke="#000" stroke-width="2"/>
+<path d="m0 1.5h100v17h-100v17h100v17h-100v17h100v17h-100" clip-path="url(#c)" fill="#fcdb00" stroke="#000"/>
+<g id="b">
+<path id="a" d="m20.15 24.142 1.65-3.767 1.65 3.767 4.101-0.446-2.451 3.304 2.451 3.304-4.101-0.446-1.65 3.767-1.65-3.767-4.101 0.446 2.451-3.304-2.451-3.304z" fill="#fcdb00" stroke="#000" stroke-width=".7"/>
+<use x="28.2" xlink:href="#a"/>
+<use x="56.4" xlink:href="#a"/>
+</g>
+<use y="34" xlink:href="#b"/>
+<use x="5.2" y="68.3" xlink:href="#a"/>
+<use x="51.2" y="68.3" xlink:href="#a"/>
+<use x="28.2" y="73.3" xlink:href="#a"/>
 </svg>

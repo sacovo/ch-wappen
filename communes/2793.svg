@@ -1,93 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="525"
-   height="612"
-   viewBox="0 0 3500 4080"
-   id="svg21"
-   sodipodi:docname="2793.svg">
-  <metadata
-     id="metadata27">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs25" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview23" />
-  <title
-     id="title2">Wappen von Zwingen</title>
-  <desc
-     id="desc4">Wappen der Schweizer Gemeinde Zwingen, Kanton Baselland</desc>
-  <path
-     d="M 0,0 H 3500 V 2330 A 1750 1750 0 0 1 0,2330 z"
-     id="path6" />
-  <path
-     d="M 100,100 H 3400 V 2330 A 1650 1650 0 0 1 100,2330 z"
-     stroke="white"
-     stroke-width="40"
-     fill="none"
-     id="path8" />
-  <use
-     xlink:href="#zepter"
-     transform="matrix(-1,0,0,1,3500,0)"
-     id="use10" />
-  <g
-     id="zepter"
-     transform="matrix(0.81,-0.65,0.65,0.81,259,288)">
-    <path
-       d="M 0,0 C 43,137 160,222 279,298 405,378 404,527 329,616 250,710 58,745 78,1380 H 97 c -7,-384 32,-480 142,-606 116,-133 314,-125 437,-28 147,117 158,300 53,454 -59,89 -182,164 -121,297 -323,-99 -31,-251 -191,-364 -116,-82 -203,79 -206,245 H -251 C -214,1212 -301,1051 -417,1133 -577,1246 -285,1398 -608,1497 -547,1364 -670,1289 -729,1200 -834,1046 -823,863 -676,746 -553,649 -355,641 -239,774 -129,900 -90,996 -97,1380 h 19 C -58,745 -250,710 -329,616 -404,527 -405,378 -279,298 -160,222 -43,137 0,0"
-       fill="white"
-       id="path12" />
-    <path
-       d="M 175,1378 L 251,3817 c 4,139 -506,139 -502,0 L -175,1378"
-       stroke="black"
-       stroke-width="40"
-       fill="white"
-       id="path14" />
-    <rect
-       x="-360"
-       y="1320"
-       width="720"
-       height="210"
-       ry="105"
-       stroke="black"
-       stroke-width="20"
-       fill="white"
-       id="rect16" />
-    <rect
-       x="-300"
-       y="1530"
-       width="600"
-       height="210"
-       ry="105"
-       stroke="black"
-       stroke-width="20"
-       fill="white"
-       id="rect18" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="525" height="612" version="1.1" viewBox="0 0 3500 4080" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen von Zwingen</title>
+<desc>Wappen der Schweizer Gemeinde Zwingen, Kanton Baselland</desc>
+<path d="m0 0h3500v2330a1750 1750 0 0 1-3500 0z"/>
+<path d="m100 100h3300v2230a1650 1650 0 0 1-3300 0z" fill="none" stroke="#fff" stroke-width="40"/>
+<use transform="matrix(-1,0,0,1,3500,0)" xlink:href="#a"/>
+<g id="a" transform="matrix(.81 -.65 .65 .81 259 288)" fill="#fff">
+<path d="m0 0c43 137 160 222 279 298 126 80 125 229 50 318-79 94-271 129-251 764h19c-7-384 32-480 142-606 116-133 314-125 437-28 147 117 158 300 53 454-59 89-182 164-121 297-323-99-31-251-191-364-116-82-203 79-206 245h-462c37-166-50-327-166-245-160 113 132 265-191 364 61-133-62-208-121-297-105-154-94-337 53-454 123-97 321-105 437 28 110 126 149 222 142 606h19c20-635-172-670-251-764-75-89-76-238 50-318 119-76 236-161 279-298"/>
+<path d="m175 1378 76 2439c4 139-506 139-502 0l76-2439" stroke="#000" stroke-width="40"/>
+<rect x="-360" y="1320" width="720" height="210" ry="105" stroke="#000" stroke-width="20"/>
+<rect x="-300" y="1530" width="600" height="210" ry="105" stroke="#000" stroke-width="20"/>
+</g>
 </svg>

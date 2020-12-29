@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   width="520" height="585" viewBox="0 0 100 112.5">
-  <title>Wappen von Brittnau</title>
-  <desc>Wappen der Schweizer Gemeinde Brittnau, Kanton Aargau</desc>
-  <defs>
-    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" /> </clipPath>
-  </defs>
-  <g stroke="black" stroke-width="1">
-    <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke-width="2" fill="#f00000" />
-    <g clip-path="url(#cpSchild)">
-      <path d="M 36,112 C 21,103 32,86 42.5,94.5 36,77.5 64,77.5 57.5,94.5 68,86 79,103 64,112" fill="#009944" />
-      <path d="M 0,0 c 11,0 13,-6 24,-6 s 13,6 24,6 13,-6 24,-6 13,6 24,6 13,-6 24,-6 13,6 24,6 v 29 c -11,0 -13,-6 -24,-6 s -13,6 -24,6 -13,-6 -24,-6 -13,6 -24,6 -13,-6 -24,-6 -13,6 -24,6" fill="white" transform="translate(-14,87) rotate(-41)" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="520" height="585" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg">
+<title>Wappen von Brittnau</title>
+<desc>Wappen der Schweizer Gemeinde Brittnau, Kanton Aargau</desc>
+<defs>
+<clipPath id="a">
+<path d="m2 2h96v60.5a48 48 0 0 1-96 0z"/>
+</clipPath>
+</defs>
+<g stroke="#000">
+<path d="m1 1h98v61.5a49 49 0 0 1-98 0z" fill="#f00000" stroke-width="2"/>
+<g clip-path="url(#a)">
+<path d="m36 112c-15-9-4-26 6.5-17.5-6.5-17 21.5-17 15 0 10.5-8.5 21.5 8.5 6.5 17.5" fill="#094"/>
+<path transform="translate(-14,87) rotate(-41)" d="m0 0c11 0 13-6 24-6s13 6 24 6 13-6 24-6 13 6 24 6 13-6 24-6 13 6 24 6v29c-11 0-13-6-24-6s-13 6-24 6-13-6-24-6-13 6-24 6-13-6-24-6-13 6-24 6" fill="#fff"/>
+</g>
+</g>
 </svg>

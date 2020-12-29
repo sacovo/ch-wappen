@@ -1,73 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="525"
-   height="612"
-   viewBox="0 0 350 408"
-   id="svg21"
-   sodipodi:docname="2864.svg">
-  <metadata
-     id="metadata25">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview23" />
-  <title
-     id="title2">Wappen von Thürnen</title>
-  <desc
-     id="desc4">Wappen der Schweizer Gemeinde Thürnen, Kanton Baselland</desc>
-  <defs
-     id="defs9">
-    <clipPath
-       id="cpSchild">
-      <path
-         d="M 4,4 H 346 V 233 A 171 171 0 0 1 4,233 z"
-         id="path6" />
-    </clipPath>
-  </defs>
-  <path
-     d="M 0,0 h 350 V 233 A 175 175 0 0 1 0,233 z"
-     id="path11" />
-  <path
-     d="M 32.5,327 v -59 a 44.5 44.5 0 0 1 89,0 v 59 h 107 v -59 a 44.5 44.5 0 0 1 89,0 v 59 M 4,4 V 186 H 125 V 114 H 225 v -2 H 125 V 76 H 225 v -2 H 113 L 175,24 237,74 H 225 V 186 H 346 V 4"
-     fill="#ffd400"
-     id="path13" />
-  <g
-     stroke="black"
-     stroke-width="4"
-     fill="#00901e"
-     clip-path="url(#cpSchild)"
-     id="g19">
-    <path
-       d="M 31,408 V 345 a 48 48 0 0 1 96,0 h 96 a 48 48 0 0 1 96,0 v 63"
-       id="path15" />
-    <path
-       d="M 127,366 a 57 48 0 1 1 96,0"
-       stroke-linecap="round"
-       id="path17" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="525" height="612" version="1.1" viewBox="0 0 350 408" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen von Thürnen</title>
+<desc>Wappen der Schweizer Gemeinde Thürnen, Kanton Baselland</desc>
+<defs>
+<clipPath id="a">
+<path d="m4 4h342v229a171 171 0 0 1-342 0z"/>
+</clipPath>
+</defs>
+<path d="m0 0h350v233a175 175 0 0 1-350 0z"/>
+<path d="m32.5 327v-59a44.5 44.5 0 0 1 89 0v59h107v-59a44.5 44.5 0 0 1 89 0v59m-313.5-323v182h121v-72h100v-2h-100v-36h100v-2h-112l62-50 62 50h-12v112h121v-182" fill="#ffd400"/>
+<g clip-path="url(#a)" fill="#00901e" stroke="#000" stroke-width="4">
+<path d="m31 408v-63a48 48 0 0 1 96 0h96a48 48 0 0 1 96 0v63"/>
+<path d="m127 366a57 48 0 1 1 96 0" stroke-linecap="round"/>
+</g>
 </svg>

@@ -1,29 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="svg20" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="603px" height="763px"
-	 viewBox="0 0 603 763" enable-background="new 0 0 603 763" xml:space="preserve">
-<desc  id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
-<g id="layer1">
-	<path id="path1899" fill="#FFFFFF" d="M1.5,1.5v458.868c0,166.311,134.314,301.132,300,301.132s300-134.821,300-301.132V1.5H1.5z"
-		/>
-</g>
-<path d="M443.562,268H308.922h-17V105H140.281V18V2.094H1.5V235h150.141v146.5V398h151.641v139v24h151.641v158.174
-	c87.146-52.164,145.714-147.401,146.549-256.449L601.5,431H443.562V268z"/>
-<g id="layer3">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg enable-background="new 0 0 603 763" version="1.1" viewBox="0 0 603 763" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<desc>Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+
+	<path d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13s300-134.82 300-301.13v-458.87h-600z" fill="#fff"/>
+
+<path d="m443.56 268h-151.64v-163h-151.64v-102.91h-138.78v232.91h150.14v163h151.64v163h151.64v158.17c87.146-52.164 145.71-147.4 146.55-256.45l0.028-31.725h-157.94v-163z"/>
+
 	
-		<radialGradient id="path2346_1_" cx="857.2461" cy="186.1196" r="299.9998" gradientTransform="matrix(1.215 0 0 -1.2667 -838.2247 479.8444)" gradientUnits="userSpaceOnUse">
-		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.3137"/>
-		<stop  offset="0.19" style="stop-color:#FFFFFF;stop-opacity:0.251"/>
-		<stop  offset="0.6" style="stop-color:#6B6B6B;stop-opacity:0.1255"/>
-		<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1255"/>
+		<radialGradient id="a" cx="857.25" cy="186.12" r="300" gradientTransform="matrix(1.215 0 0 -1.2667 -838.22 479.84)" gradientUnits="userSpaceOnUse">
+		<stop stop-color="#fff" stop-opacity=".3137" offset="0"/>
+		<stop stop-color="#fff" stop-opacity=".251" offset=".19"/>
+		<stop stop-color="#6B6B6B" stop-opacity=".1255" offset=".6"/>
+		<stop stop-opacity=".1255" offset="1"/>
 	</radialGradient>
-	<path id="path2346" fill="url(#path2346_1_)" d="M1.5,1.5v458.868c0,166.311,134.314,301.132,300,301.132s300-134.821,300-301.132
-		V1.5H1.5z"/>
-</g>
-<g id="layer4">
-	<path id="path3239" fill="none" stroke="#000000" stroke-width="3" d="M1.5,1.5v458.868c0,166.311,134.314,301.132,300,301.132
-		s300-134.821,300-301.132V1.5H1.5z"/>
-</g>
+	<path d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13s300-134.82 300-301.13v-458.87h-600z" fill="url(#a)"/>
+
+
+	<path d="m1.5 1.5v458.87c0 166.31 134.31 301.13 300 301.13s300-134.82 300-301.13v-458.87h-600z" fill="none" stroke="#000" stroke-width="3"/>
+
 </svg>

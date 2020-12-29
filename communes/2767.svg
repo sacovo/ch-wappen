@@ -1,64 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="540"
-   height="620"
-   viewBox="0 0 540 620"
-   id="svg11"
-   sodipodi:docname="2767.svg">
-  <metadata
-     id="metadata17">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs15" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview13" />
-  <title
-     id="title2">Wappen von Bottmingen</title>
-  <desc
-     id="desc4">Wappen der Schweizer Gemeinde Bottmingen, Kanton Baselland</desc>
-  <path
-     d="M 4.5,4.5 h 531 V 350 A 265.5 265.5 0 0 1 4.5,350 z"
-     stroke="black"
-     stroke-width="9"
-     fill="#e2001a"
-     id="path6" />
-  <path
-     d="M -27,192 C -62,185 -84,160 -84,127 C -84,87 -59,73 -43,58 C 0,19 -18,0 0,0 C 18,0 0,19 43,58 C 59,73 84,87 84,127 C 84,160 62,185 27,192 L 84,596 L 29,515 L 0,618 L -29,515 L -84,596 z"
-     id="kolben"
-     stroke="black"
-     stroke-width="4"
-     stroke-miterlimit="5"
-     fill="white"
-     transform="translate(510,45) rotate(44)" />
-  <use
-     xlink:href="#kolben"
-     transform="matrix(-1,0,0,1,540,0)"
-     id="use9" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 540 620" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen von Bottmingen</title>
+<desc>Wappen der Schweizer Gemeinde Bottmingen, Kanton Baselland</desc>
+<path d="m4.5 4.5h531v345.5a265.5 265.5 0 0 1-531 0z" fill="#e2001a" stroke="#000" stroke-width="9"/>
+<path id="a" transform="translate(510,45) rotate(44)" d="m-27 192c-35-7-57-32-57-65 0-40 25-54 41-69 43-39 25-58 43-58s0 19 43 58c16 15 41 29 41 69 0 33-22 58-57 65l57 404-55-81-29 103-29-103-55 81z" fill="#fff" stroke="#000" stroke-miterlimit="5" stroke-width="4"/>
+<use transform="matrix(-1,0,0,1,540,0)" xlink:href="#a"/>
 </svg>

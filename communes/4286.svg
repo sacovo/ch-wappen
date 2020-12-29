@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="520" height="585" viewBox="0 0 100 112.5">
-  <title>Wappen von Uerkheim</title>
-  <desc>Wappen der Schweizer Gemeinde Uerkheim, Kanton Aargau</desc>
-  <defs>
-    <clipPath id="cpSchild"> <path d="M 2,2 H 98 V 62.5 A 48 48 0 0 1 2,62.5 z" /> </clipPath>
-  </defs>
-  <path d="M 1,1 H 99 V 62.5 A 49 49 0 0 1 1,62.5 z" stroke="black" stroke-width="2" fill="white" />
-  <g stroke="black" stroke-width="1">
-    <path d="M 0,40 H 99 v 26 H 0" fill="#f00000" clip-path="url(#cpSchild)" />
-    <path id="stern" d="M 50,4.7 L 54,17 67,17 56.5,24.7 60.5,37 50,29.4 39.5,37 43.5,24.7 33,17 46,17 50,4.7 z" fill="#fcdb00" />
-    <use y="65" xlink:href="#stern" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg width="520" height="585" version="1.1" viewBox="0 0 100 112.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Wappen von Uerkheim</title>
+<desc>Wappen der Schweizer Gemeinde Uerkheim, Kanton Aargau</desc>
+<defs>
+<clipPath id="b">
+<path d="m2 2h96v60.5a48 48 0 0 1-96 0z"/>
+</clipPath>
+</defs>
+<path d="m1 1h98v61.5a49 49 0 0 1-98 0z" fill="#fff" stroke="#000" stroke-width="2"/>
+<g stroke="#000">
+<path d="m0 40h99v26h-99" clip-path="url(#b)" fill="#f00000"/>
+<path id="a" d="m50 4.7 4 12.3h13l-10.5 7.7 4 12.3-10.5-7.6-10.5 7.6 4-12.3-10.5-7.7h13l4-12.3z" fill="#fcdb00"/>
+<use y="65" xlink:href="#a"/>
+</g>
 </svg>

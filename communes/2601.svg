@@ -1,82 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Ebene_1"
-   x="0px"
-   y="0px"
-   width="406.425px"
-   height="492.703px"
-   viewBox="-176.197 -213.866 406.425 492.703"
-   enable-background="new -176.197 -213.866 406.425 492.703"
-   xml:space="preserve"
-   sodipodi:docname="2601.svg"><metadata
-   id="metadata29"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs27" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="640"
-   inkscape:window-height="480"
-   id="namedview25" />
-<g
-   id="g22">
-	<path
-   fill="#FFFFFF"
-   d="M26.881-212.346h201.824V84.306c0,106.594-90.281,193.016-201.688,193.016   c-111.398,0-201.695-86.422-201.695-193.016v-296.652H26.881z"
-   id="path2" />
-	<polygon
-   fill="#E8423F"
-   points="-174.677,20.529 -174.677,-212.346 26.881,-212.346 228.707,-212.346 228.707,20.529  "
-   id="polygon4" />
-	<g
-   id="g20">
-		<g
-   id="g18">
-			<g
-   id="g16">
-				<g
-   id="g14">
-					<defs
-   id="defs7">
-						<rect
-   id="SVGID_1_"
-   x="-176.197"
-   y="-213.866"
-   width="406.425"
-   height="492.703" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="406.42px" height="492.7px" enable-background="new -176.197 -213.866 406.425 492.703" version="1.1" viewBox="-176.2 -213.87 406.42 492.7" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink"><metadata><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/></cc:Work></rdf:RDF></metadata>
+
+	<path d="m26.881-212.35h201.82v296.65c0 106.59-90.281 193.02-201.69 193.02-111.4 0-201.7-86.422-201.7-193.02v-296.65h201.56z" fill="#fff"/>
+	<polygon points="-174.68 20.529 -174.68 -212.35 26.881 -212.35 228.71 -212.35 228.71 20.529" fill="#E8423F"/>
+	
+		
+			
+				
+					<defs>
+						<rect id="b" x="-176.2" y="-213.87" width="406.42" height="492.7"/>
 					</defs>
-					<clipPath
-   id="SVGID_2_">
-						<use
-   xlink:href="#SVGID_1_"
-   overflow="visible"
-   id="use9" />
+					<clipPath id="a">
+						<use overflow="visible" xlink:href="#b"/>
 					</clipPath>
-					<path
-   clip-path="url(#SVGID_2_)"
-   fill="none"
-   stroke="#010202"
-   stroke-width="3.048"
-   d="M26.881-212.346h201.824V84.306       c0,106.594-90.281,193.016-201.688,193.016c-111.398,0-201.695-86.422-201.695-193.016v-296.652H26.881z"
-   id="path12" />
-				</g>
-			</g>
-		</g>
-	</g>
-</g>
+					<path d="m26.881-212.35h201.82v296.65c0 106.59-90.281 193.02-201.69 193.02-111.4 0-201.7-86.422-201.7-193.02v-296.65h201.56z" clip-path="url(#a)" fill="none" stroke="#010202" stroke-width="3.048"/>
+				
+			
+		
+	
+
 </svg>

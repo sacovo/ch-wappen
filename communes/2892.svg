@@ -1,72 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="540"
-   height="620"
-   viewBox="0,0 540,620"
-   id="svg19"
-   sodipodi:docname="2892.svg">
-  <metadata
-     id="metadata23">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview21" />
-  <title
-     id="title2">Wappen von Oberdorf</title>
-  <desc
-     id="desc4">Wappen der Schweizer Gemeinde Oberdorf, Kanton Baselland</desc>
-  <defs
-     id="defs9">
-    <clipPath
-       id="cpSchild">
-      <path
-         d="M 9,9 H 531 V 350 A 261,261 0 0,1 9,350 z"
-         id="path6" />
-    </clipPath>
-  </defs>
-  <path
-     d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z"
-     stroke="black"
-     stroke-width="9"
-     fill="white"
-     id="path11" />
-  <g
-     stroke="black"
-     stroke-width="4"
-     fill="#0056ad"
-     clip-path="url(#cpSchild)"
-     id="g17">
-    <path
-       d="M 540,0 V 620 H -80 z M 247,293 V 30 h 46 V 247 z M 247,30 H 226 V 62 H 204 V 30 H 47 V 62 h 74 v 20 a 11,11 0 0,1 -22,0 H 47 v 36 H 148 V 62 h 25 v 56 h 53 v 25 H 173 v 63 H 148 V 143 H 47 v 37 h 52 a 11,11 0 0,1 22,0 v 26 H 47 v 34 H 204 V 206 h 22 v 34 h 21 z"
-       id="path13" />
-    <path
-       d="M 247,293 v 36 h -8 a 12,12 0 0,0 0,24 h 8 v 12 H 230 v 13 a 95,105 0 0,0 -90,76 13,13 0 0,0 -23,10 16,16 0 0,0 0,32 13,13 0 0,0 23,10 110,90 0 0,0 110,80 v 14 h 40 V 586 A 110,90 0 0,0 400,506 13,13 0 0,0 423,496 16,16 0 0,0 423,464 13,13 0 0,0 400,454 95,105 0 0,0 310,378 V 365 H 293 V 353 h 8 a 12,12 0 0,0 0,-24 h -8 V 247 z M 256,548 c -3,3 -7,5 -16,5 -29,0 -70,-27 -70,-57 a 16,16 0 0,0 0,-32 c 0,-18 26,-55 70,-55 9,0 13,2 16,5 a 68,68 0 0,0 0,134 z m 28,0 a 68,68 0 0,0 0,-134 c 3,-3 7,-5 16,-5 44,0 70,37 70,55 a 16,16 0 0,0 0,32 c 0,30 -41,57 -70,57 -9,0 -13,-2 -16,-5 z M 270,443 a 38,38 0 0,1 0,76 38,38 0 0,1 0,-76"
-       fill="white"
-       id="path15" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 540 620" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen von Oberdorf</title>
+<desc>Wappen der Schweizer Gemeinde Oberdorf, Kanton Baselland</desc>
+<defs>
+<clipPath id="a">
+<path d="m9 9h522v341a261 261 0 0 1-522 0z"/>
+</clipPath>
+</defs>
+<path d="m4.5 4.5h531v345.5a265.5 265.5 0 0 1-531 0z" fill="#fff" stroke="#000" stroke-width="9"/>
+<g clip-path="url(#a)" fill="#0056ad" stroke="#000" stroke-width="4">
+<path d="m540 0v620h-620zm-293 293v-263h46v217zm0-263h-21v32h-22v-32h-157v32h74v20a11 11 0 0 1-22 0h-52v36h101v-56h25v56h53v25h-53v63h-25v-63h-101v37h52a11 11 0 0 1 22 0v26h-74v34h157v-34h22v34h21z"/>
+<path d="m247 293v36h-8a12 12 0 0 0 0 24h8v12h-17v13a95 105 0 0 0-90 76 13 13 0 0 0-23 10 16 16 0 0 0 0 32 13 13 0 0 0 23 10 110 90 0 0 0 110 80v14h40v-14a110 90 0 0 0 110-80 13 13 0 0 0 23-10 16 16 0 0 0 0-32 13 13 0 0 0-23-10 95 105 0 0 0-90-76v-13h-17v-12h8a12 12 0 0 0 0-24h-8v-82zm9 255c-3 3-7 5-16 5-29 0-70-27-70-57a16 16 0 0 0 0-32c0-18 26-55 70-55 9 0 13 2 16 5a68 68 0 0 0 0 134zm28 0a68 68 0 0 0 0-134c3-3 7-5 16-5 44 0 70 37 70 55a16 16 0 0 0 0 32c0 30-41 57-70 57-9 0-13-2-16-5zm-14-105a38 38 0 0 1 0 76 38 38 0 0 1 0-76" fill="#fff"/>
+</g>
 </svg>

@@ -1,93 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="540"
-   height="620"
-   viewBox="0,0 540,620"
-   id="svg26"
-   sodipodi:docname="2833.svg">
-  <metadata
-     id="metadata32">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs30" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview28" />
-  <title
-     id="title2">Wappen von Seltisberg</title>
-  <desc
-     id="desc4">Wappen der Schweizer Gemeinde Seltisberg, Kanton Baselland</desc>
-  <g
-     stroke="black"
-     stroke-width="9"
-     id="g10">
-    <path
-       d="M 4.5,4.5 h 531 V 350 A 265.5,265.5 0 0,1 4.5,350 z"
-       fill="white"
-       id="path6" />
-    <path
-       d="M 4.5,4.5 h 531 V 324 H 4.5 z"
-       fill="#e2001a"
-       id="path8" />
-  </g>
-  <g
-     stroke="black"
-     stroke-width="4"
-     id="g24">
-    <path
-       d="M 270,309.5 A 118,90 36 0,0 125,204.2 118,90 108 0,0 180.4,33.7 118,90 0 0,0 359.6,33.7 118,90 -108 0,0 415,204.2 118,90 -36 0,0 270,309.5 z"
-       fill="#00901e"
-       id="path12" />
-    <path
-       id="blatt"
-       d="M 270,157 L 227,98 A 52,52 0 1,1 313,98 z"
-       fill="white" />
-    <g
-       id="blatt2">
-      <use
-         xlink:href="#blatt"
-         transform="rotate(72,270,157)"
-         id="use15" />
-      <use
-         xlink:href="#blatt"
-         transform="rotate(144,270,157)"
-         id="use17" />
-    </g>
-    <use
-       xlink:href="#blatt2"
-       transform="rotate(144,270,157)"
-       id="use20" />
-    <circle
-       cx="270"
-       cy="157"
-       r="55"
-       fill="#ffd400"
-       id="circle22" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 540 620" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<title>Wappen von Seltisberg</title>
+<desc>Wappen der Schweizer Gemeinde Seltisberg, Kanton Baselland</desc>
+<g stroke="#000" stroke-width="9">
+<path d="m4.5 4.5h531v345.5a265.5 265.5 0 0 1-531 0z" fill="#fff"/>
+<path d="m4.5 4.5h531v319.5h-531z" fill="#e2001a"/>
+</g>
+<g stroke="#000" stroke-width="4">
+<path d="m270 309.5a118 90 36 0 0-145-105.3 118 90 108 0 0 55.4-170.5 118 90 0 0 0 179.2 0 118 90-108 0 0 55.4 170.5 118 90-36 0 0-145 105.3z" fill="#00901e"/>
+<path id="a" d="m270 157-43-59a52 52 0 1 1 86 0z" fill="#fff"/>
+<g id="b">
+<use transform="rotate(72,270,157)" xlink:href="#a"/>
+<use transform="rotate(144,270,157)" xlink:href="#a"/>
+</g>
+<use transform="rotate(144,270,157)" xlink:href="#b"/>
+<circle cx="270" cy="157" r="55" fill="#ffd400"/>
+</g>
 </svg>
