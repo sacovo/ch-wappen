@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BichelseeBalterswil-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1752"
+     inkscape:window-height="1281"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-75.835377"
+     inkscape:cy="90.985229"
+     inkscape:window-x="218"
+     inkscape:window-y="71"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2782" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212"
+     d="m 1,1 3.761095,158.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 L 207.86045,1 Z" />
+  <path
+     id="path3390-0"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     d="M 2.9873858,84.48978 H 205.87306 l -1.61867,68 H 4.6060537 Z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212-6"
+     d="M 1,0.99999834 4.761095,159.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 l 3.7611,-158.00304166 z" />
+</svg>

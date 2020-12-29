@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="540"
+   height="620"
+   viewBox="0 0 540 620"
+   id="svg28"
+   sodipodi:docname="2860.svg">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview30" />
+  <title
+     id="title2">Wappen von Rünenberg</title>
+  <desc
+     id="desc4">Wappen der Schweizer Gemeinde Rünenberg, Kanton Baselland</desc>
+  <defs
+     id="defs7">
+    <path
+       d="M 270,288 L 244.8,96.6 c -3.3,-24.8 17.3,-24.8 25.2,-33.4 7.9,8.6 28.5,8.6 25.5,33.4 z"
+       id="blatt"
+       stroke="black"
+       stroke-width="4"
+       fill="white" />
+  </defs>
+  <path
+     d="M 4.5,4.5 h 531 V 350 A 265.5 265.5 0 0 1 4.5,350 z"
+     stroke="black"
+     stroke-width="9"
+     fill="#0056ad"
+     id="path9" />
+  <g
+     id="blatt12">
+    <g
+       id="blatt6">
+      <g
+         id="blatt2">
+        <use
+           xlink:href="#blatt"
+           transform="rotate(7.5,270,288)"
+           id="use11" />
+        <use
+           xlink:href="#blatt"
+           transform="rotate(22.5,270,288)"
+           id="use13" />
+      </g>
+      <use
+         xlink:href="#blatt2"
+         transform="rotate(30,270,288)"
+         id="use16" />
+      <use
+         xlink:href="#blatt2"
+         transform="rotate(60,270,288)"
+         id="use18" />
+    </g>
+    <use
+       xlink:href="#blatt6"
+       transform="rotate(90,270,288)"
+       id="use21" />
+  </g>
+  <use
+     xlink:href="#blatt12"
+     transform="rotate(180,270,288)"
+     id="use24" />
+  <circle
+     cx="270"
+     cy="288"
+     r="80"
+     stroke="black"
+     stroke-width="4"
+     fill="#ffd400"
+     id="circle26" />
+</svg>

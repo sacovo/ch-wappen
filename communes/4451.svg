@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Uttwil-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1752"
+     inkscape:window-height="1281"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1.6617009"
+     inkscape:cx="-95.939942"
+     inkscape:cy="141.7902"
+     inkscape:window-x="254"
+     inkscape:window-y="124"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="178.582,72.817"
+     inkscape:measure-end="187.459,62.436"
+     inkscape:snap-nodes="true"
+     inkscape:object-paths="false" />
+  <defs
+     id="defs2782" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#1b63c6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212"
+     d="m 1,1 3.761095,158.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 L 207.86045,1 Z" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 111.09923,10.775206 17.691954,78.299145 H 97.693552 V 119.21493 H 26.167488 c -2.100643,0 -3.739518,-1.18252 -5.114154,-2.55724 v 15.45155 c 1.374636,-1.37472 3.013511,-2.55723 5.114154,-2.55723 h 71.526064 v 88.59267 c -19.815405,-2.79452 -47.48668,-14.5546 -58.156423,-43.98522 l 12.423067,2.80006 c -8.608958,-7.72477 -16.13531,-16.82849 -23.235632,-26.47347 -0.04079,11.79636 -2.042278,23.5933 -4.252942,35.38965 l 7.906451,-9.66931 c 11.703728,43.20362 47.026573,55.09061 72.017377,55.09061 24.9908,0 60.31554,-11.88699 72.01926,-55.09061 l 7.90646,9.66931 c -2.21067,-11.79635 -4.21216,-23.59329 -4.25295,-35.38965 -7.10032,9.64498 -14.62667,18.7487 -23.23563,26.47347 l 12.42307,-2.80006 c -10.66974,29.43062 -38.34102,41.1907 -58.15643,43.98522 v -88.59267 h 71.52607 c 2.10064,0 3.73952,1.18251 5.11416,2.55723 v -15.45155 c -1.37464,1.37472 -3.01352,2.55724 -5.11416,2.55724 H 111.09923 V 78.299145 h 75.54379 c 9.32683,-5.288175 -4.51122,-16.069544 -9.23051,-19.391744 1.38042,3.16606 2.50682,8.286357 -0.71515,8.286357 H 111.09923 Z M 97.693552,32.519303 V 67.193758 H 49.729394 Z"
+     id="path26537-3-5"
+     inkscape:connector-curvature="0" />
+</svg>

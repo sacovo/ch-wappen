@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="556.19397"
+   viewBox="0 0 499.99999 556.19398"
+   width="500"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="2765.svg">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview18" />
+  <path
+     d="m5.0018144 5v290.46213a259.81354 259.81354 0 0 0 71.5981506 180.07634 236.54096 236.54096 0 0 0 346.799565 0 259.81354 259.81354 0 0 0 71.59815-180.20352v-290.33495z"
+     stroke-width="12.717256"
+     id="path2" />
+  <g
+     fill="#fff"
+     id="g14">
+    <path
+       d="m22.96 10.18-2.61-.29-1.06 2.41-1.06-2.41-2.62.29 1.55-2.13-1.55-2.11 2.62.28 1.06-2.41 1.06 2.41 2.61-.28-1.55 2.11z"
+       transform="matrix(12.717256 0 0 12.717256 5.001814 5)"
+       id="path4" />
+    <path
+       d="m21.41 21.5 1.55 2.12-2.61-.29-1.06 2.41-1.06-2.41-2.62.29 1.55-2.12-1.55-2.12 2.62.28 1.06-2.4 1.06 2.4 2.61-.28z"
+       transform="matrix(12.717256 0 0 12.717256 5.001814 5)"
+       id="path6" />
+    <path
+       d="m22.96 37.06-2.61-.28-1.06 2.4-1.06-2.4-2.62.28 1.55-2.12-1.55-2.12 2.62.28 1.06-2.4 1.06 2.4 2.61-.28-1.55 2.12z"
+       transform="matrix(12.717256 0 0 12.717256 5.001814 5)"
+       id="path8" />
+    <path
+       d="m20.262522 295.46213v-275.20142h145.358228v499.02512a241.62786 241.62786 0 0 1 -145.358228-223.8237z"
+       stroke-width="12.717256"
+       id="path10" />
+    <path
+       d="m479.73697 295.46213a241.62786 241.62786 0 0 1 -144.08651 223.56935v-498.77077h144.08651z"
+       stroke-width="12.717256"
+       id="path12" />
+  </g>
+</svg>

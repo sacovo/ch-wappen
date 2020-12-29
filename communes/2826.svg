@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="525"
+   height="612"
+   viewBox="0 0 350 408"
+   id="svg22"
+   sodipodi:docname="2826.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview24" />
+  <title
+     id="title2">Wappen von Giebenach</title>
+  <desc
+     id="desc4">Wappen der Schweizer Gemeinde Giebenach, Kanton Baselland</desc>
+  <path
+     d="M 2,2 h 346 V 233 A 173 173 0 0 1 2,233 z"
+     stroke="black"
+     stroke-width="4"
+     fill="#0056ad"
+     id="path6" />
+  <g
+     fill="none"
+     id="g20">
+    <path
+       d="M 49,162 L 257,320 175,58 93,320 301,162"
+       stroke="black"
+       stroke-width="33"
+       id="path8" />
+    <path
+       d="M 49,162 L 257,320 175,58 93,320 301,162"
+       stroke="white"
+       stroke-width="25"
+       id="path10" />
+    <path
+       d="M 207.4,233.1 L 301,162 49,162 205,280.5"
+       stroke="black"
+       stroke-width="33"
+       id="path12" />
+    <path
+       d="M 197,241 L 301,162 49,162 257,320"
+       stroke="white"
+       stroke-width="25"
+       id="path14" />
+    <path
+       d="M 134,189 L 113.5,254.5 M 213.95,182.45 L 195.5,123.5"
+       stroke="black"
+       stroke-width="33"
+       id="path16" />
+    <path
+       d="M 136.05,182.45 L 103.25,287.25 M 216,189 L 175,58"
+       stroke="white"
+       stroke-width="25"
+       id="path18" />
+  </g>
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Roggwil-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1752"
+     inkscape:window-height="1281"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-366.24985"
+     inkscape:cy="142.98437"
+     inkscape:window-x="43"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383" />
+  <defs
+     id="defs2782" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212"
+     d="m 1,1 3.761095,158.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 L 207.86045,1 Z" />
+  <path
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 104.43024,118.48978 V 0.93382108 L 207.86045,1 c -0.01,0.2866494 0.0122,0.5902193 -0.52286,0.593935 z"
+     id="path28073"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 3.610758,118.48978 H 104.43024 L 1.4854989,1.551494 C 1.5192885,1.187088 1.4995906,0.87205503 1,1 Z"
+     id="path28075"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 104.43024,243.38339 V 118.48978 l -80.776614,91.75681 c 9.611267,12.03465 37.402379,34.25627 80.776614,33.1368 z"
+     id="path28087"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 205.06097,118.48978 c -0.83368,35.66897 2.33203,66.25938 -19.93601,91.66375 l -80.69472,-91.66375 z"
+     id="path28108"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4212-6"
+     d="M 1,0.99999834 4.761095,159.00304 c 2.686489,112.85918 196.651755,112.85918 199.338255,0 l 3.7611,-158.00304166 z" />
+</svg>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="208.86046"
+   height="244.65999"
+   id="svg2780"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Unterbäch-blazon.svg">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3259"
+     inkscape:window-height="1417"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-467.2508"
+     inkscape:cy="440.31346"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2780"
+     inkscape:measure-start="104.255,149.787"
+     inkscape:measure-end="104.255,126.383"
+     showguides="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2782" />
+  <path
+     id="path4212-7"
+     style="fill:#cc2918;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 204.09935,159.00304 207.86045,1 C 138.90698,1 69.953503,1 1.000029,1 l 3.7611,158.00304 c 1.64138,68.95393 2.88226,67.30563 99.669111,84.64438 96.78685,-17.33875 98.02773,-15.69045 99.66911,-84.64438 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccscs" />
+  <path
+     id="path861-5-9-2"
+     style="opacity:1;fill:#feeb00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:8;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 115,192.40999 v -81.5 h 55.33705 V 89.77047 H 115 V 68.413623 h 31.4722 V 47.274103 H 115 V 12.619925 H 104.43024 93.86048 v 34.654178 h -31.4722 v 21.13952 h 31.4722 V 89.77047 H 38.52343 v 21.13952 h 55.33705 v 81.5 h 10.56976 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <path
+     id="path32412-1-8-2"
+     style="opacity:1;fill:#009645;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.57999992;stroke-opacity:1"
+     d="m 39.438135,230.42758 c -18.165466,-13.67741 -9.656946,-34.11911 4.72115,-39.35758 14.3781,-5.23847 26.2246,2.55144 31.05801,10.89841 1.63093,-7.64588 7.51635,-12.55183 14.69528,-15.21149 4.56967,-1.69299 11.850955,-4.85082 14.517665,-10.85082 2.66671,6 9.94799,9.15783 14.51766,10.85082 7.17893,2.65966 13.06435,7.56561 14.69528,15.21149 4.83341,-8.34697 16.67991,-16.13688 31.05801,-10.89841 14.3781,5.23847 22.88662,25.68017 4.72115,39.35758 -24.57599,6.38969 -40.73486,9.05491 -64.9921,13.21984 -24.345005,-4.48432 -41.164049,-6.86177 -64.992105,-13.21984 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cscccccsccc" />
+  <path
+     id="path4212-7-8"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 204.09935,159.00304 3.7611,-158.00304166 c -68.95347,0 -137.906947,0 -206.860421,0 L 4.761129,159.00304 c 1.64138,68.95393 2.88226,67.30563 99.669111,84.64438 96.78685,-17.33875 98.02773,-15.69045 99.66911,-84.64438 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccscs" />
+</svg>

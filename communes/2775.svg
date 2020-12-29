@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="500"
+   height="618.32251"
+   viewBox="0 0 638.086 789.086"
+   id="Layer_2"
+   xml:space="preserve"
+   sodipodi:docname="2775.svg"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview7" /><defs
+   id="defs8" />
+<g
+   id="layer4">
+	<path
+   d="M 3.543,3.543 L 3.543,484.41 C 3.543,650.721 144.797,785.543 319.043,785.543 C 493.289,785.543 634.543,650.721 634.543,484.41 L 634.543,3.543 L 3.543,3.543 z"
+   id="wappen"
+   style="fill:yellow;stroke:black;stroke-width:7" />
+</g>
+<rect
+   width="315"
+   height="315"
+   x="322.65701"
+   y="0"
+   id="quadrat" />
+</svg>

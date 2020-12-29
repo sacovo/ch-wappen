@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="520"
+   height="585"
+   viewBox="0 0 100 112.5"
+   id="svg19"
+   sodipodi:docname="1089.svg">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview21" />
+  <title
+     id="title2">Wappen von Knutwil</title>
+  <desc
+     id="desc4">Wappen der Schweizer Gemeinde Knutwil, Kanton Luzern</desc>
+  <defs
+     id="defs9">
+    <clipPath
+       id="cpSchild">
+      <path
+         d="M 2,2 H 98 V 62.5 a 48,48 0 0,1 -96,0 z"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <g
+     stroke="black"
+     stroke-width="2"
+     id="g17">
+    <path
+       d="M 99,1 V 62.5 a 49,49 0 0,1 -98,0 V 1"
+       fill="#0056ad"
+       id="path11" />
+    <path
+       d="M 1,1 V 71 H 99 V 1"
+       fill="white"
+       clip-path="url(#cpSchild)"
+       id="path13" />
+    <path
+       d="M 1,1 V 36 H 99 V 1 z"
+       fill="#e2001a"
+       id="path15" />
+  </g>
+</svg>
